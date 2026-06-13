@@ -18,17 +18,56 @@
           }
       },
       {
-        "id": "anima_christi",
-        "title": "Anima Christi",
-        "shortDescription": "Mittelalterliches Gebet der Hingabe an Christi Seele, Leib, Blut und Leiden.",
-        "author": null,
-        "text": "Seele Christi, heilige mich.\nLeib Christi, erlöse mich.\nBlut Christi, tränke mich.\nWasser aus der Seite Christi, wasche mich.\nLeiden Christi, stärke mich.\n\nO guter Jesus, erhöre mich.\nIn deinen Wunden verbirg mich.\nLass mich nicht von dir getrennt werden.\nVor dem bösen Feind beschütze mich.\nIn der Stunde meines Todes rufe mich.\nUnd heiß mich zu dir kommen,\ndamit ich mit deinen Heiligen dich lobe\nin alle Ewigkeit.\n\nAmen.",
-        "tags": ["gebet", "mittelalter", "katholisch", "andacht", "ignatianisch", "fronleichnam", "mystik"],
-        "category": "andacht",
-        "holiday": "fronleichnam",
-        "theology": "catholic",
-        "estimatedMinutes": 1,
-        "audio": { "male": null, "female": null }
+          "id": "anima_christi",
+          "title": "Anima Christi",
+          "shortDescription": "Mittelalterliches Gebet der Hingabe an Christi Seele, Leib, Blut und Leiden.",
+          "author": null,
+          "text": "Seele Christi, heilige mich.\nLeib Christi, erlöse mich.\nBlut Christi, tränke mich.\nWasser aus der Seite Christi, wasche mich.\nLeiden Christi, stärke mich.\n\nO guter Jesus, erhöre mich.\nIn deinen Wunden verbirg mich.\nLass mich nicht von dir getrennt werden.\nVor dem bösen Feind beschütze mich.\nIn der Stunde meines Todes rufe mich.\nUnd heiß mich zu dir kommen,\ndamit ich mit deinen Heiligen dich lobe\nin alle Ewigkeit.\n\nAmen.",
+          "tags": ["gebet", "mittelalter", "katholisch", "andacht", "ignatianisch", "fronleichnam", "mystik"],
+          "category": "andacht",
+          "holiday": "fronleichnam",
+          "theology": "catholic",
+          "estimatedMinutes": 1,
+          "audio": { "male": null, "female": null }
+      },
+      {
+          "id": "morgengebet_01",
+          "title": "Morgengebet",
+          "shortDescription": "Morgengebet Martin Luthers um Gottes Schutz und Segen für den neuen Tag.",
+          "author": "Martin Luther",
+          "text": "Ich danke dir, mein himmlischer Vater,\ndurch Jesum Christum, deinen lieben Sohn,\ndass du mich diese Nacht vor allem Schaden und Gefahr behütet hast,\nund bitte dich, du wollest mich diesen Tag auch behüten\nvor Sünden und allem Übel,\ndass all mein Tun und Leben dir gefalle.\nDenn ich befehle mich, meinen Leib und Seele und alles,\nin deine Hände.\nDein heiliger Engel sei mit mir,\ndass der böse Feind keine Macht an mir finde.\n\nAmen.",
+          "tags": ["gebet", "reformation", "lutherisch", "morgengebet", "luther"],
+          "category": "morgen_abend",
+          "holiday": null,
+          "theology": "protestant",
+          "estimatedMinutes": 1,
+          "audio": { "male": null, "female": null }
+      },
+      {
+          "id": "mein_herr_gott_01",
+          "title": "Mein Herr und mein Gott",
+          "shortDescription": "Das dreifache Gebet des Mystikers um Nehmen, Geben und vollständige Hingabe an Gott.",
+          "author": "Nikolaus von Flüe",
+          "text": "Mein Herr und mein Gott,\nnimm alles von mir, was mich hindert zu dir.\nMein Herr und mein Gott,\ngib alles mir, was mich fördert zu dir.\nMein Herr und mein Gott,\nnimm mich mir und gib mich ganz zu eigen dir.",
+          "tags": ["gebet", "mittelalter", "katholisch", "mystik", "hingabe", "bruder-klaus"],
+          "category": "andacht",
+          "holiday": null,
+          "theology": "catholic",
+          "estimatedMinutes": 1,
+          "audio": { "male": null, "female": null }
+      },
+      {
+          "id": "wachsames_herz_01",
+          "title": "Wachsames Herz",
+          "shortDescription": "Thomas' Bitte um ein wachsames, edles und freies Herz in der Hingabe an Gott.",
+          "author": "Thomas Aquinas",
+          "text": "Gib mir, o Herr, ein wachsames Herz, das kein leichtfertiger Gedanke von dir ablenkt,\nein edles Herz, das keine unwürdige Leidenschaft erniedrigt,\nein gerades und aufrechtes Herz, das kein gemeines Streben auf Abwege führen kann,\nein starkes Herz, das keine Trübsal beugt,\nein freies Herz, das sich von keiner bösen Macht beherrschen läßt.\n\nSchenk mir, o Gott,\nVerstand, der dich erkennt,\nEifer, der dich sucht,\nWeisheit, die dich findet,\neinen Wandel, der dir gefällt,\nBeharrlichkeit, die gläubig dich erwartet,\nVertrauen, das am Ende dich umfängt.",
+          "tags": ["gebet", "mittelalter", "katholisch", "thomas-aquinas", "scholastik", "herzensgebet"],
+          "category": "andacht",
+          "holiday": null,
+          "theology": "catholic",
+          "estimatedMinutes": 1,
+          "audio": { "male": null, "female": null }
       }
   ]
 }
