@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "prayers": [
+    {
+      "id": "friedensgebet_franziskus",
+      "title": "Werkzeug des Friedens",
+      "shortDescription": "Franziskanisches Friedensgebet um Selbstlosigkeit als Werkzeug göttlicher Liebe.",
+      "author": "Franz von Assisi",
+      "text": "Herr, mach mich zu einem Werkzeug deines Friedens.\n\nDass ich liebe, wo man hasst;\ndass ich verzeihe, wo man beleidigt;\ndass ich verbinde, wo Streit ist;\ndass ich die Wahrheit sage, wo Irrtum ist;\ndass ich Glauben bringe, wo Zweifel droht;\ndass ich Hoffnung wecke, wo Verzweiflung quält;\ndass ich Licht entzünde, wo Finsternis regiert;\ndass ich Freude bringe, wo Traurigkeit wohnt.\n\nHerr, lass mich trachten:\nnicht, dass ich getröstet werde, sondern dass ich tröste;\nnicht, dass ich verstanden werde, sondern dass ich verstehe;\nnicht, dass ich geliebt werde, sondern dass ich liebe.\n\nDenn wer sich hingibt, der empfängt;\nwer sich selbst vergisst, der findet;\nwer verzeiht, dem wird verziehen;\nund wer stirbt, der erwacht zum ewigen Leben.\n\nAmen.",
+      "tags": ["frieden", "selbstlosigkeit", "liebe", "franziskanisch"],
+      "category": "frieden",
+      "historicalPeriod": "mittelalter",
+      "holiday": null,
+      "theology": "catholic",
+      "estimatedMinutes": 2,
+      "audio": {
+        "male": null,
+        "female": null
+      }
+    }
+  ]
+}
