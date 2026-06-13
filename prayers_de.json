@@ -1,22 +1,36 @@
 {
   "version": 1,
   "prayers": [
-    {
-      "id": "friedensgebet_franziskus",
-      "title": "Werkzeug des Friedens",
-      "shortDescription": "Franziskanisches Friedensgebet um Selbstlosigkeit als Werkzeug göttlicher Liebe.",
-      "author": "Franz von Assisi",
-      "text": "Herr, mach mich zu einem Werkzeug deines Friedens.\n\nDass ich liebe, wo man hasst;\ndass ich verzeihe, wo man beleidigt;\ndass ich verbinde, wo Streit ist;\ndass ich die Wahrheit sage, wo Irrtum ist;\ndass ich Glauben bringe, wo Zweifel droht;\ndass ich Hoffnung wecke, wo Verzweiflung quält;\ndass ich Licht entzünde, wo Finsternis regiert;\ndass ich Freude bringe, wo Traurigkeit wohnt.\n\nHerr, lass mich trachten:\nnicht, dass ich getröstet werde, sondern dass ich tröste;\nnicht, dass ich verstanden werde, sondern dass ich verstehe;\nnicht, dass ich geliebt werde, sondern dass ich liebe.\n\nDenn wer sich hingibt, der empfängt;\nwer sich selbst vergisst, der findet;\nwer verzeiht, dem wird verziehen;\nund wer stirbt, der erwacht zum ewigen Leben.\n\nAmen.",
-      "tags": ["frieden", "selbstlosigkeit", "liebe", "franziskanisch"],
-      "category": "frieden",
-      "historicalPeriod": "mittelalter",
-      "holiday": null,
-      "theology": "catholic",
-      "estimatedMinutes": 2,
-      "audio": {
-        "male": null,
-        "female": null
+      {
+          "id": "friedensgebet_franziskus",
+          "title": "Werkzeug des Friedens",
+          "shortDescription": "Franziskanisches Friedensgebet um Selbstlosigkeit als Werkzeug göttlicher Liebe.",
+          "author": "Franz von Assisi",
+          "text": "Herr, mach mich zu einem Werkzeug deines Friedens.\n\nDass ich liebe, wo man hasst;\ndass ich verzeihe, wo man beleidigt;\ndass ich verbinde, wo Streit ist;\ndass ich die Wahrheit sage, wo Irrtum ist;\ndass ich Glauben bringe, wo Zweifel droht;\ndass ich Hoffnung wecke, wo Verzweiflung quält;\ndass ich Licht entzünde, wo Finsternis regiert;\ndass ich Freude bringe, wo Traurigkeit wohnt.\n\nHerr, lass mich trachten:\nnicht, dass ich getröstet werde, sondern dass ich tröste;\nnicht, dass ich verstanden werde, sondern dass ich verstehe;\nnicht, dass ich geliebt werde, sondern dass ich liebe.\n\nDenn wer sich hingibt, der empfängt;\nwer sich selbst vergisst, der findet;\nwer verzeiht, dem wird verziehen;\nund wer stirbt, der erwacht zum ewigen Leben.\n\nAmen.",
+          "tags": ["frieden", "selbstlosigkeit", "liebe", "franziskanisch"],
+          "category": "frieden",
+          "historicalPeriod": "mittelalter",
+          "holiday": null,
+          "theology": "catholic",
+          "estimatedMinutes": 2,
+          "audio": {
+              "male": null,
+              "female": null
+          }
+      },
+      {
+        "id": "anima_christi",
+        "title": "Anima Christi",
+        "shortDescription": "Mittelalterliches Gebet der Hingabe an Christi Seele, Leib, Blut und Leiden.",
+        "author": null,
+        "text": "Seele Christi, heilige mich.\nLeib Christi, erlöse mich.\nBlut Christi, tränke mich.\nWasser aus der Seite Christi, wasche mich.\nLeiden Christi, stärke mich.\n\nO guter Jesus, erhöre mich.\nIn deinen Wunden verbirg mich.\nLass mich nicht von dir getrennt werden.\nVor dem bösen Feind beschütze mich.\nIn der Stunde meines Todes rufe mich.\nUnd heiß mich zu dir kommen,\ndamit ich mit deinen Heiligen dich lobe\nin alle Ewigkeit.\n\nAmen.",
+        "tags": ["gebet", "mittelalter", "katholisch", "andacht", "ignatianisch", "fronleichnam", "mystik"],
+        "category": "andacht",
+        "historicalPeriod": "mittelalter",
+        "holiday": "fronleichnam",
+        "theology": "catholic",
+        "estimatedMinutes": 1,
+        "audio": { "male": null, "female": null }
       }
-    }
   ]
 }
