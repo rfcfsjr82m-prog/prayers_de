@@ -57,6 +57,19 @@
           "audio": { "male": null, "female": null }
       },
       {
+          "id": "nichts_soll_dich_aengstigen_01",
+          "title": "Nichts soll dich ängstigen",
+          "shortDescription": "Theresas Verheißung innerer Ruhe in der alleinigen Hinwendung zu Gott.",
+          "author": "Theresa von Avila",
+          "text": "Nichts soll dich ängstigen,\nnichts dich erschrecken.\nAlles geht vorüber.\nGott allein bleibt derselbe.\nAlles erreicht der Geduldige,\nund wer Gott hat, der hat alles.\nGOTT ALLEIN GENÜGT.",
+          "tags": [],
+          "category": null,
+          "holiday": null,
+          "theology": "catholic",
+          "estimatedMinutes": 1,
+          "audio": { "male": null, "female": null }
+      },
+      {
           "id": "wachsames_herz_01",
           "title": "Wachsames Herz",
           "shortDescription": "Thomas' Bitte um ein wachsames, edles und freies Herz in der Hingabe an Gott.",
