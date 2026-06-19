@@ -81,6 +81,19 @@
           "theology": "catholic",
           "estimatedMinutes": 1,
           "audio": { "male": null, "female": null }
+      },
+      {
+      "id": "vaterunser",
+      "title": "Vaterunser",
+      "shortDescription": "Das Gebet, das Jesus seine Jünger lehrte.",
+      "author": null,
+      "text": "Vater unser im Himmel,\ngeheiligt werde dein Name.\nDein Reich komme.\nDein Wille geschehe, wie im Himmel, so auf Erden.\nUnser tägliches Brot gib uns heute,\nund vergib uns unsre Schuld,\nwie auch wir vergeben unseren Schuldigern.\nUnd führe uns nicht in Versuchung,\nsondern erlöse uns von dem Bösen.\nDenn dein ist das Reich\nund die Kraft\nund die Herrlichkeit\nin Ewigkeit.\nAmen.",
+      "tags": ["grundgebet", "jesus", "klassisch"],
+      "category": "grundgebete",
+      "holiday": null,
+      "theology": "catholic",
+      "estimatedMinutes": 2,
+      "audio": { "male": null, "female": null }
       }
   ]
 }
