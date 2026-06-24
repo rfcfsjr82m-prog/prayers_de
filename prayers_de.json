@@ -95,8 +95,9 @@
       "estimatedMinutes": 2,
       "audio": { "male": null, "female": null }
       },
-     {
-    "id": "wende_dich_herr_01",
+
+  {
+    "id": "101",
     "title": "Wende dich, Herr, mein Gott",
     "shortDescription": "Salomos Tempelweihegebet aus dem Ersten Buch der Könige, in dem er Gott bittet, seine Augen offen zu halten über dem Haus, in dem sein Name wohnt. Ein königliches Flehen um Gottes Nähe und Erhörung.",
     "author": "König Salomo",
@@ -109,7 +110,7 @@
     "audio": { "male": null, "female": null }
   },
   {
-    "id": "spaet_hab_ich_02",
+    "id": "102",
     "title": "Spät hab ich Dich geliebt",
     "shortDescription": "Augustinus' bewegtes Liebesbekenntnis aus den Konfessionen – ein Aufatmen über die Erkenntnis, dass Gott schon immer im Inneren war, während er Ihn draußen suchte. Klassisches Gebet der Umkehr und Gottessehnsucht.",
     "author": "Augustinus von Hippo",
@@ -122,7 +123,7 @@
     "audio": { "male": null, "female": null }
   },
   {
-    "id": "gross_bist_du_03",
+    "id": "103",
     "title": "Groß bist du, o Herr",
     "shortDescription": "Die Eröffnung der Confessiones des Augustinus, die Gottes unermessliche Größe preist und das Paradox des menschlichen Herzens besingt, das geschaffen ist, in Gott zur Ruhe zu kommen.",
     "author": "Augustinus von Hippo",
@@ -135,7 +136,7 @@
     "audio": { "male": null, "female": null }
   },
   {
-    "id": "herr_gott_der_wahrheit_04",
+    "id": "104",
     "title": "Herr, Gott der Wahrheit",
     "shortDescription": "Augustinus' Meditation über wahre Seligkeit: Nicht wissenschaftliches Wissen macht glücklich, sondern allein die Erkenntnis Gottes – wer Gott kennt, ist selig, auch wenn er sonst nichts weiß.",
     "author": "Augustinus von Hippo",
@@ -148,7 +149,7 @@
     "audio": { "male": null, "female": null }
   },
   {
-    "id": "keiner_verliert_dich_05",
+    "id": "105",
     "title": "Keiner verliert dich",
     "shortDescription": "Augustinus beschreibt den dreifachen Weg zu Gott durch Glauben, Hoffnung und Liebe: Wer Gott verlässt, geht verloren; wer Ihn sucht, liebt Ihn; wer Ihn findet, besitzt Ihn.",
     "author": "Augustinus von Hippo",
@@ -161,7 +162,7 @@
     "audio": { "male": null, "female": null }
   },
   {
-    "id": "goettliche_fuelle_128",
+    "id": "217",
     "title": "Gebet um göttliche Fülle und Vertrauen",
     "shortDescription": null,
     "author": null,
