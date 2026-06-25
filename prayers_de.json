@@ -728,6 +728,235 @@
       "female": null
     }
   },
+    {
+    "id": "131",
+    "title": "In schwerer Krankheit",
+    "shortDescription": "Hensels Klagegebet aus dunkler, langer Nacht schwerer Krankheit – das müde, kranke Herz hält sich einzig an Gott als fernem, aber sicherem Stern.",
+    "author": "Luise Hensel",
+    "text": "Die Nacht ist schwarz und kalt und lang,\nDer Tag noch wie so fern.\nMein Herz ist matt und krank und bang\nUnd sehnt sich nach dem Herrn.\n\nDas Fieber brennt im Busen mir\nUnd zuckt durch mein Gebein.\nDie Hilfe kommt allein von dir,\nMein Gott! ich harre dein.\n\nDer Kummer mir zu Häupten steht\nUnd bei mir liegt der Schmerz,\nDie Sorge um mein Bette geht,\nDie Angst fällt mir ans Herz.\n\nUnd an der Tür den Tod, die Not,\nDer Meinen Not und Harm,\nSei still, mein Herz, und ruh in Gott:\nDu ruhst im Vaterarm.",
+    "tags": [
+      "Krankheit",
+      "Angst",
+      "Schmerz",
+      "Klage",
+      "Stärke"
+    ],
+    "category": "Krisenzeiten",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "132",
+    "title": "Du bist das Licht, das nie verlöscht",
+    "shortDescription": "Newmans Lobpreis Gottes als unerlöschendes Licht und ewige Flamme, in dessen Glanz der Beter bleiben möchte, um von seiner Wärme und seinem Leuchten durchdrungen zu werden.",
+    "author": "John Henry Newman",
+    "text": "Du bist das Licht, das nie verlöscht,\ndie Flamme, die immer lodert —\nbleibe,\nund vom Glanz dieses Lichtes beschienen,\nwerde ich selbst Licht, anderen zu leuchten.\n\nAber dieses Licht stammt ganz von dir,\nkein Strahl von mir.\n\nIch bin nur wie das Glas,\ndurch das du den anderen scheinst.\n\nErleuchte sie mit deinem Licht,\nwie du auch mich erleuchten mögest.",
+    "tags": [
+      "Demut",
+      "Kontemplation",
+      "Hingabe",
+      "Stille",
+      "Sehnsucht"
+    ],
+    "category": [
+      "Sehnsucht & Gottsuche",
+      "Lob & Preis"
+    ],
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "133",
+    "title": "Herr, ich lege mich ganz in Deine Hände",
+    "shortDescription": "Newmans Gebet vollständiger Übergabe – der Beter legt sich ganz in Gottes Hände und findet darin nicht Verlust, sondern Heimat: Gott hat ihn erschaffen und ist bei ihm.",
+    "author": "John Henry Newman",
+    "text": "Herr, ich lege mich ganz in Deine Hände.\nMach mit mir, was Du willst!\nDu hast mich erschaffen für Dich.\nIch opfere Dir diese Wünsche,\ndiese Vergnügen,\ndiese Schwächen,\ndiese Pläne,\ndiese Neigungen,\ndie mich fern halten von Dir\nund mich zurückwerfen auf mich selbst.\n\nIch will das sein, wozu Du mich haben willst,\nund all das, wozu Du mich machen willst.\nIch sage nicht:\n„Ich will Dir folgen, wohin Du willst“,\ndenn ich bin schwach.\nAber ich gebe mich Dir,\ndaß Du mich wohin immer führst.\nIch will Dir folgen\nund bitte Dich nur um Kraft für meinen Tag.",
+    "tags": [
+      "Hingabe",
+      "Demut",
+      "Schwäche",
+      "Stärke",
+      "Mut"
+    ],
+    "category": "Gottvertrauen & Hingabe",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "134",
+    "title": "Laß mich, o Gott, niemals die Wahrheit vergessen",
+    "shortDescription": "Newmans Bitte, nie zu vergessen, dass Gott sein einziges wahres Leben ist – alles andere ist Schatten und täuschender Schein, nur Gott ist unveränderliche Wirklichkeit.",
+    "author": "John Henry Newman",
+    "text": "Laß mich, o Gott, niemals die Wahrheit vergessen,\ndaß du mein Leben, mein einziges Leben bist.\nDu bist der Weg, die Wahrheit und das Leben.\nDu bist mein Leben und das Leben aller Menschen,\nall derer, die ich kenne, denen ich begegne,\ndie ich sehe und von denen ich höre;\nalle leben sie nur in dir und durch dich;\nohne dich wären sie nichts.\n\nNiemand kann außer dir das Heil finden.\nLaß mich das nie in den Geschäftigkeiten dieses Lebens vergessen.",
+    "tags": [
+      "Alltag",
+      "Sehnsucht",
+      "Kontemplation",
+      "Zerstreuung",
+      "Vertrauen"
+    ],
+    "category": "Führung & Begleitung",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "135",
+    "title": "Herr! schicke, was du willst",
+    "shortDescription": "Mörickes stilles Gebet der gelassenen Bereitschaft, Liebes wie Leides gleichermaßen anzunehmen, weil beides aus Gottes Händen kommt und sein Sinn darin verborgen ist.",
+    "author": "Eduard Möricke",
+    "text": "Herr!\nschicke, was du willst,\nein Liebes oder Leides;\nich bin vergnügt, daß beides\naus deinen Händen quillt.\n\nWollest mit Freuden\nund wollest mit Leiden\nmich nicht überschütten!\nDoch in der Mitten\nliegt holdes Bescheiden.",
+    "tags": [
+      "Gelassenheit",
+      "Vertrauen",
+      "Hingabe",
+      "Prüfung",
+      "Alltag"
+    ],
+    "category": "Gottvertrauen & Hingabe",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "136",
+    "title": "Zum neuen Jahr",
+    "shortDescription": "Mörickes Gedicht zum Jahresanfang – der neue Morgen naht leise wie ein Engelein mit rosigen Füßen, und der Beter begrüßt ihn mit Jubel und stillem Gottvertrauen.",
+    "author": "Eduard Möricke",
+    "text": "Wie heimlicherweise\nEin Engelein leise\nMit rosigen Füßen\nDie Erde betritt,\n\nSo nahte der Morgen,\nJauchzt ihm, ihr Frommen,\nEin heilig Willkommen,\nEin heilig Willkommen!\nHerz, jauchze du mit!\n\nIn ihm sei’s begonnen,\nDer Monde und Sonnen\nAn blauen Zelten\nDes Himmels bewegt.\n\nDu, Vater, du rate!\nLenke du und wende!\nHerr, dir in die Hände\nSei Anfang und Ende,\nSei alles gelegt!",
+    "tags": [
+      "Neujahr",
+      "Neuanfang",
+      "Hoffnung",
+      "Hingabe",
+      "Vertrauen"
+    ],
+    "category": [
+      "Dankbarkeit",
+      "Tageszeiten"
+    ],
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "137",
+    "title": "Gebet (Sei du mit mir)",
+    "shortDescription": "Geibels Gebet, Gott als beständigen Begleiter in Glück und Not, als Trost im Klagen und als Licht in dunklen Stunden des Lebens stets bei sich zu haben.",
+    "author": "Emanuel Geibel",
+    "text": "Herr, den ich tief im Herzen trage,\nsei du mit mir.\nDu Gnadenhort in Glück und Plage,\nsei du mit mir.\n\nIm Brand des Sommers, der dem Manne die Wange bräunt,\nWie in der Jugend Rosenhage\nsei du mit mir;\nBehüte mich am Born der Freude vor Übermut,\nund wenn ich an mir selbst verzage,\nsei du mit mir.\n\nGib deinen Geist zu meinem Liede,\ndaß rein es sei,\nUnd daß kein Wort mich einst verklage,\nsei du mit mir.\n\nDein Segen ist wie Tau den Reben:\nnichts kann ich selbst;\ndoch daß ich kühn das Höchste wage,\nsei du mit mir,\no du mein Trost, du meine Stärke,\nmein Sonnenlicht,\nbis an das Ende meiner Tage,\nsei du mit mir.",
+    "tags": [
+      "Lebensbegleitung",
+      "Vertrauen",
+      "Bitte",
+      "Stärke",
+      "Mut"
+    ],
+    "category": "Führung & Begleitung",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "138",
+    "title": "Bleibe bei uns, Herr",
+    "shortDescription": "Dieffenbachs Abendgebet im Geist der Emmaus-Jünger (Lk 24,29) – die Bitte an den Herrn, beim Einbrechen des Abends zu bleiben, Licht zu schenken und Begleiter zu sein.",
+    "author": "Georg Christian Dieffenbach",
+    "text": "Bleibe bei uns, Herr,\ndenn es will Abend werden\nund der Tag hat sich geneiget.\n\nBleibe bei uns\nund bei deiner ganzen Kirche.\n\nBleibe bei uns\nam Abend des Tages,\nam Abend des Lebens,\nam Abend der Welt.\n\nBleibe bei uns\nmit deiner Gnade und Güte,\nmit deinem heiligen Wort und Sakrament,\nmit deinem Trost und Segen.\n\nBleibe bei uns\nwenn über uns kommt\ndie Nacht der Trübsal und Angst,\ndie Nacht des Zweifels und der Anfechtung,\ndie Nacht des bitteren Todes.\n\nBleibe bei uns\nund bei all deinen Gläubigen\nin Zeit und Ewigkeit.\n\nAmen.",
+    "tags": [
+      "Abend",
+      "Angst",
+      "Sterben",
+      "Einsamkeit",
+      "Trauer"
+    ],
+    "category": [
+      "Tageszeiten",
+      "Klassiker"
+    ],
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "139",
+    "title": "O Friede, der nun alles füllet",
+    "shortDescription": "Morgensterns Abendgebet für den Frieden, der alles erfüllt – die Bitte, dass dieser Friede auch in das eigene Herz einziehe und bis zum Aufgang eines neuen Tages bleibe.",
+    "author": "Christian Morgenstern",
+    "text": "O Friede, der nun alles füllet,\nerfüll auch uns mit süßer Ruh,\nund bis ein Tag sich neu enthüllet,\ndeck uns mit trauten Träumen zu.\n\nWie manches, was des Tages Wille\nmit rechter Klarheit nicht ergreift!\nDem hilf, daß es in deiner Stille\nzu freundlicher Vollendung reift.\n\nWen Schicksalsschläge grausam trafen,\nden tröste des, was ihm geschehn;\nwer neid- und haßerfüllt entschlafen,\nden laß versöhnt den Morgen sehn.\n\nSo allem, dem gleich uns auf Erden\nzuteil des Lebens schwankes Los,\nlaß deines Segens Tiefe werden,\ngib Kraft aus deinem heil’gen Schoß!",
+    "tags": [
+      "Abend",
+      "Trost",
+      "Erschöpfung",
+      "Versöhnung",
+      "Stärke"
+    ],
+    "category": "Tageszeiten",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "140",
+    "title": "In allen meinen Taten",
+    "shortDescription": "Flemings Vertrauensgedicht, in dem der Beter in allen Lebenslagen Gott als den anerkennt, der allein alles kann und hat und daher in allem raten und helfen möge.",
+    "author": "Paul Fleming",
+    "text": "In allen meinen Taten\nLaß ich den Höchsten raten,\nDer alles kann und hat.\nEr muß zu allen Dingen,\nSoll’s anders wohl gelingen,\nSelbst geben Rat und Tat.\n\nNichts ist es spät und frühe,\nUm alle meine Mühe,\nMein Sorgen ist umsonst:\nEr mag’s mit meinen Sachen\nNach seinem Willen machen,\nIch stell’s in seine Gunst.\n\nEs kann mir nichts geschehen,\nAls was er hat versehen\nUnd was mir selig ist.\nIch nehm es, wie er ’s giebet;\nWas ihm von mir geliebet,\nDas hab auch ich erkiest.\n\nIch traue seiner Gnaden,\nDie mich vor allem Schaden,\nVor allem Übel schützt.\nLeb ich nach seinen Gesetzen,\nSo wird mich nichts verletzen,\nNichts fehlen, was mir nützt.\n\nEr wolle meiner Sünden\nIn Gnaden mich entbinden,\nDurchstreichen meine Schuld!\nEr wird auf mein Verbrechen\nNicht stracks das Urteil sprechen,\nUnd haben noch Geduld.\n\nHat er es denn beschlossen,\nSo will ich unverdrossen\nAn mein Verhängnis gehn.\nKein Unfall unter allen\nWird mir zu harte fallen,\nIch will ihn überstehn.\n\nIhm hab ich mich ergeben,\nZu sterben und zu leben,\nSobald er mir gebeut.\nEs sei heut oder morgen,\nDafür laß ich ihn sorgen,\nEr weiß die rechte Zeit.\n\nSo sei nun, Seele, deine\nUnd traue dem alleine,\nDer dich geschaffen hat!\nEs gehe, wie es gehe,\nDein Vater in der Höhe\nWeiß allen Sachen Rat.",
+    "tags": [
+      "Vertrauen",
+      "Gelassenheit",
+      "Hingabe",
+      "Alltag",
+      "Stärke"
+    ],
+    "category": "Gottvertrauen & Hingabe",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
   {
     "id": "217",
     "title": "Gebet um göttliche Fülle und Vertrauen",
