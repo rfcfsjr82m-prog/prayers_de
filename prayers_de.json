@@ -1398,6 +1398,383 @@
       "female": null
     }
   },
+    {
+    "id": "181",
+    "title": "",
+    "shortDescription": "Ein kontemplatives Gebet der Integration – die Umarmung aller inneren Gegensätze (Stärke und Schwäche, Vertrauen und Angst) als ganzheitliches Ja zum eigenen Sein vor Gott.",
+    "author": null,
+    "text": "Ich umarme in mir das Starke und das Schwache,\ndas Gesunde und das Kranke,\ndas Vertrauen und die Angst,\ndie Freude und die Traurigkeit,\ndas Ansehnliche und das Unansehnliche.\n\nUnd ich schließe die Türe\nund schütze diesen Raum der Stille,\nwo Christus in mir ist.\nWo das Reiche Gottes in mir ist,\ndort bin ich frei, heil und ganz,\nursprünglich und authentisch,\nrein und klar und daheim.\n\nHerr, kehre ein in dieses Haus\nund lass deine heiligen Engel darin wohnen.\nSie mögen uns in Frieden behüten.\nUnd dein heiliger Segen sei für alle Zeit\nüber uns und um uns und in uns.\nSo bitten wir in Christus unserem Herrn,\n\nAmen.",
+    "tags": [
+      "Innere Einkehr",
+      "Stille",
+      "Kontemplation",
+      "Sehnsucht",
+      "Stärke"
+    ],
+    "category": [
+      "Krisenzeiten",
+      "Gottvertrauen & Hingabe"
+    ],
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "182",
+    "title": "Zur geistigen Kommunion",
+    "shortDescription": "Das Gebet der geistigen Kommunion, in dem der Betende in Glauben, Liebe und Sehnsucht Jesus im Herzen empfängt, wenn der sakramentale Empfang nicht möglich ist.",
+    "author": null,
+    "text": "Mein Jesus, ich glaube,\ndass Du im allerheiligsten Sakrament des Altares zugegen bist.\n\nIch liebe dich über alles\nund meine Seele sehnt sich nach Dir.\n\nDa ich Dich aber jetzt im Sakrament des Altares nicht empfangen kann,\nso komme wenigstens geistigerweise zu mir.\n\nIch umfange Dich, als wärest Du schon bei mir\nund vereinige mich mit Dir!\n\nIch bete Dich in tiefster Ehrfurcht an.\n\nLass nicht zu, dass ich mich je von Dir trenne.\n\nAmen.",
+    "tags": [
+      "Kommunion",
+      "Sehnsucht",
+      "Hingabe",
+      "Andacht",
+      "Liebe"
+    ],
+    "category": [
+      "Klassiker",
+      "Sehnsucht & Gottsuche"
+    ],
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+{
+    "id": "190",
+    "title": "Kreuzzeichen",
+    "shortDescription": "Die grundlegendste christliche Geste des Gebets – das Kreuzzeichen als Bekenntnis zur Trinität und zum erlösenden Kreuz Christi, mit dem jedes Gebet beginnt und endet.",
+    "author": null,
+    "text": "Im Namen des Vaters und des Sohnes und des Heiligen Geistes.\n\nAmen.",
+    "tags": [
+      "Vorbereitung",
+      "Tägliches Gebet",
+      "Bekenntnis",
+      "Demut"
+    ],
+    "category": "Klassiker",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "191",
+    "title": "Vater unser",
+    "shortDescription": "Das von Jesus selbst gelehrte Gebet (Mt 6,9-13) – das Grundgebet aller Christen weltweit, das alle wesentlichen Haltungen des Betens in sich vereint.",
+    "author": "Jesus Christus",
+    "text": "Vater unser im Himmel,\ngeheiligt werde dein Name.\nDein Reich komme.\nDein Wille geschehe,\nwie im Himmel so auf Erden.\n\nUnser tägliches Brot gib uns heute.\nUnd vergib uns unsere Schuld,\nwie auch wir vergeben unsern Schuldigern.\n\nUnd führe uns nicht in Versuchung,\nsondern erlöse uns von dem Bösen.\n\nDenn dein ist das Reich und die Kraft\nund die Herrlichkeit in Ewigkeit.\n\nAmen.",
+    "tags": [
+      "Vertrauen",
+      "Bitte",
+      "Schuld",
+      "Morgengebet",
+      "Stärke"
+    ],
+    "category": "Klassiker",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "192",
+    "title": "Apostolisches Glaubensbekenntnis",
+    "shortDescription": "Das älteste Taufbekenntnis der Kirche aus dem 2. Jahrhundert – kompaktes Bekenntnis zu Gott Vater, Jesus Christus und dem Heiligen Geist.",
+    "author": null,
+    "text": "Ich glaube an Gott, den Vater, den Allmächtigen,\nden Schöpfer des Himmels und der Erde,\nund an Jesus Christus, seinen eingeborenen Sohn, unsern Herrn,\nempfangen durch den Heiligen Geist,\ngeboren von der Jungfrau Maria,\ngelitten unter Pontius Pilatus,\ngekreuzigt, gestorben und begraben,\nhinabgestiegen in das Reich des Todes,\nam dritten Tage auferstanden von den Toten,\naufgefahren in den Himmel;\ner sitzt zur Rechten Gottes, des allmächtigen Vaters;\nvon dort wird er kommen,\nzu richten die Lebenden und die Toten.\n\nIch glaube an den Heiligen Geist,\ndie heilige katholische/christliche Kirche,\nGemeinschaft der Heiligen,\nVergebung der Sünden,\nAuferstehung der Toten und das ewige Leben.\n\nAmen.",
+    "tags": [
+      "Bekenntnis",
+      "Vertrauen",
+      "Gottesdienst",
+      "Demut",
+      "Glaubensstärkung"
+    ],
+    "category": "Klassiker",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "193",
+    "title": "Ave Maria",
+    "shortDescription": "Das marianische Kerngebet, zusammengesetzt aus dem Engelsgruß (Lk 1,28) und dem Gruß der Elisabeth (Lk 1,42) sowie einer Bitte um Marias Fürsprache in der Sterbestunde.",
+    "author": null,
+    "text": "Gegrüßet seist du, Maria, voll der Gnade,\nder Herr ist mit dir.\n\nDu bist gebenedeit unter den Frauen,\nund gebenedeit ist die Frucht deines Leibes, Jesus.\n\nHeilige Maria, Mutter Gottes,\nbitte für uns Sünder jetzt und in der Stunde unseres Todes.\n\nAmen.",
+    "tags": [
+      "Fürbitte",
+      "Sehnsucht",
+      "Vertrauen",
+      "Krankheit",
+      "Bitte"
+    ],
+    "category": "Klassiker",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "194",
+    "title": "Ehre sei dem Vater",
+    "shortDescription": "Die kurze trinitarische Doxologie – Lob an Vater, Sohn und Heiligen Geist, 'wie im Anfang, so auch jetzt und alle Zeit' – häufigster Lobpreis in der christlichen Liturgie.",
+    "author": null,
+    "text": "Ehre sei dem Vater und dem Sohn und dem Heiligen Geist,\n\nwie im Anfang, so auch jetzt und allezeit und in Ewigkeit.\n\nAmen.",
+    "tags": [
+      "Lobpreis",
+      "Dankbarkeit",
+      "Demut",
+      "Gottesdienst"
+    ],
+    "category": [
+      "Klassiker",
+      "Lob & Preis"
+    ],
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "195",
+    "title": "Gloria",
+    "shortDescription": "Das große Lobgebet der Messliturgie aus dem 4. Jahrhundert, das die Engel bei der Geburt Christi anstimmten und das Gottes Herrlichkeit in Himmel und Erde preist.",
+    "author": null,
+    "text": "Ehre sei Gott in der Höhe\nund Friede auf Erden den Menschen seiner Gnade.\n\nWir loben dich, wir preisen dich, wir beten dich an,\nwir rühmen dich und danken dir,\ndenn groß ist deine Herrlichkeit:\n\nHerr und Gott, König des Himmels,\nGott und Vater, Herrscher über das All,\nHerr, eingeborener Sohn, Jesus Christus.\n\nHerr und Gott, Lamm Gottes, Sohn des Vaters,\ndu nimmst hinweg die Sünde der Welt: erbarme dich unser;\ndu nimmst hinweg die Sünde der Welt: nimm an unser Gebet;\ndu sitzest zur Rechten des Vaters: erbarme dich unser.\n\nDenn du allein bist der Heilige,\ndu allein der Herr,\ndu allein der Höchste: Jesus Christus,\nmit dem Heiligen Geist, zur Ehre Gottes des Vaters.\n\nAmen.",
+    "tags": [
+      "Lobpreis",
+      "Dankbarkeit",
+      "Gottesdienst",
+      "Demut",
+      "Vorbereitung"
+    ],
+    "category": [
+      "Klassiker",
+      "Lob & Preis"
+    ],
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "196",
+    "title": "Credo (Nizäno-Konstantinopolitanum)",
+    "shortDescription": "Das auf den Konzilien von Nizäa (325) und Konstantinopel (381) formulierte vollständige Glaubensbekenntnis – zentrales Lehrdokument der christlichen Theologie und des Glaubens.",
+    "author": null,
+    "text": "Wir glauben an den einen Gott, den Vater, den Allmächtigen,\nder alles geschaffen hat, Himmel und Erde,\ndie sichtbare und die unsichtbare Welt.\n\nUnd an den einen Herrn Jesus Christus,\nGottes eingeborenen Sohn,\naus dem Vater geboren vor aller Zeit:\nGott von Gott, Licht vom Licht,\nwahrer Gott vom wahren Gott,\ngezeugt, nicht geschaffen,\neines Wesens mit dem Vater;\ndurch ihn ist alles geschaffen.\nFür uns Menschen und zu unserem Heil\nist er vom Himmel gekommen,\nhat Fleisch angenommen durch den Heiligen Geist\nvon der Jungfrau Maria und ist Mensch geworden.\nEr wurde für uns gekreuzigt unter Pontius Pilatus,\nhat gelitten und ist begraben worden,\nist am dritten Tage auferstanden nach der Schrift\nund aufgefahren in den Himmel.\nEr sitzt zur Rechten des Vaters\nund wird wiederkommen in Herrlichkeit,\nzu richten die Lebenden und die Toten;\nseiner Herrschaft wird kein Ende sein.\n\nWir glauben an den Heiligen Geist,\nder Herr ist und lebendig macht,\nder aus dem Vater und dem Sohn hervorgeht,\nder mit dem Vater und dem Sohn angebetet und verherrlicht wird,\nder gesprochen hat durch die Propheten,\nund die eine, heilige, katholische/allgemeine und apostolische Kirche.\nWir bekennen die eine Taufe zur Vergebung der Sünden.\nWir erwarten die Auferstehung der Toten\nund das Leben der kommenden Welt.\n\nAmen.",
+    "tags": [
+      "Bekenntnis",
+      "Vertrauen",
+      "Gottesdienst",
+      "Demut",
+      "Glaubensstärkung"
+    ],
+    "category": "Klassiker",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "197",
+    "title": "Sanctus",
+    "shortDescription": "Das dreifache 'Heilig' aus der Messliturgie (nach Jes 6,3) – Lobpreis der ganzen Schöpfung, die von Gottes Herrlichkeit erfüllt ist, und Willkommensruf für den, der im Namen des Herrn kommt.",
+    "author": null,
+    "text": "Heilig, heilig, heilig Gott,\nHerr aller Mächte und Gewalten.\n\nErfüllt sind Himmel und Erde von deiner Herrlichkeit.\n\nHosanna in der Höhe.\n\nHochgelobt sei, der da kommt im Namen des Herrn.\n\nHosanna in der Höhe.",
+    "tags": [
+      "Lobpreis",
+      "Ehrfurcht",
+      "Gottesdienst",
+      "Anbetung",
+      "Dankbarkeit"
+    ],
+    "category": [
+      "Klassiker",
+      "Lob & Preis"
+    ],
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "198",
+    "title": "Agnus Dei",
+    "shortDescription": "Das dreifache Gebet zum 'Lamm Gottes' in der Messliturgie – Anrufung Christi, der die Sünde der Welt hinwegnimmt, mit der Bitte um Erbarmen und den Frieden Gottes.",
+    "author": null,
+    "text": "Lamm Gottes, du nimmst hinweg die Sünde der Welt:\nerbarme dich unser.\nLamm Gottes, du nimmst hinweg die Sünde der Welt:\nerbarme dich unser.\nLamm Gottes, du nimmst hinweg die Sünde der Welt:\ngib uns deinen Frieden.",
+    "tags": [
+      "Schuld",
+      "Bitte",
+      "Versöhnung",
+      "Gottesdienst",
+      "Sehnsucht"
+    ],
+    "category": [
+      "Klassiker",
+      "Schuld & Vergebung"
+    ],
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "199",
+    "title": "Te Deum",
+    "shortDescription": "Der große Lobhymnus aus dem 4. Jahrhundert, attr. Nicetas von Remesiana – Dankgebet der Kirche für Schöpfung und Erlösung, mit dem die Heilsgeschichte gepriesen wird.",
+    "author": "Nicetas von Remesiana",
+    "text": "Dich, Gott, loben wir,\ndich, Herr, preisen wir.\n\nDir, dem ewigen Vater, huldigt das Erdenrund.\n\nDir rufen die Engel alle,\ndir Himmel und Mächte insgesamt,\ndie Kerubim dir und die Serafim,\nmit niemals endender Stimme zu:\nHeilig, heilig, heilig der Herr, der Gott der Scharen!\nVoll sind Himmel und Erde von deiner hohen Herrlichkeit.\n\nDich preist der glorreiche Chor der Apostel;\ndich der Propheten lobwürdige Zahl;\ndich der Märtyrer leuchtendes Heer;\ndich preist über das Erdenrund die heilige Kirche;\ndich, den Vater unermessbarer Majestät;\ndeinen wahren und einzigen Sohn und den Heiligen Fürsprecher Geist.\n\nDu König der Herrlichkeit, Christus.\nDu bist des Vaters allewiger Sohn.\nDu hast der Jungfrau Schoß nicht verschmäht,\nbist Mensch geworden, den Menschen zu befreien.\nDu hast bezwungen des Todes Stachel\nund denen, die glauben, die Reiche der Himmel aufgetan.\nDu sitzest zur Rechten Gottes in deines Vaters Herrlichkeit.\nAls Richter, so glauben wir, kehrst du einst wieder.\n\nDich bitten wir denn, komm deinen Dienern zu Hilfe,\ndie du erlöst mit kostbarem Blut.\nIn der ewigen Herrlichkeit zähle uns deinen Heiligen zu.",
+    "tags": [
+      "Lobpreis",
+      "Dankbarkeit",
+      "Ehrfurcht",
+      "Festgebet",
+      "Gottesdienst"
+    ],
+    "category": [
+      "Klassiker",
+      "Lob & Preis"
+    ],
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "200",
+    "title": "Immerwährendes Jesusgebet",
+    "shortDescription": "Das Herzensgebet der östlichen Tradition – die kurze, beständige Anrufung 'Herr Jesus Christus, erbarme dich meiner' als Weg zur inneren Stille und Kontemplation.",
+    "author": null,
+    "text": "Herr Jesus Christus, erbarme dich meiner.\n\nHerr Jesus Christus, Sohn Gottes, erbarme dich unser.\n\nJesus, dir leb ich;\n\nJesus, dir sterb ich;\n\nJesus, dein bin ich tot, und lebendig.\n\nHerr Jesus Christus, du hast mich berufen,\ndass ich mit dir zum Vater gehe.\n\nMit dir will ich allzeit auf dem Wege bleiben.\n\nSei das Wort, auf das ich höre und dem ich folge.\n\nSei das Licht, das mich erleuchtet.\n\nSei die Kraft, die mich erfüllt.\n\nSei der Beistand, der mich nicht verlässt.\n\nMach mich vollkommen eins mit dir\nund lass mich zur ewigen Vollendung gelangen.",
+    "tags": [
+      "Hingabe",
+      "Sehnsucht",
+      "Vertrauen",
+      "Kontemplation",
+      "Stärke"
+    ],
+    "category": [
+      "Klassiker",
+      "Führung & Begleitung"
+    ],
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "201",
+    "title": "Salve Regina",
+    "shortDescription": "Das mittelalterliche Marianische Gebet aus dem 11. Jahrhundert – Anrufung Marias als Königin und Mutter der Barmherzigkeit, Trösterin der im Tal der Tränen Verbannten.",
+    "author": null,
+    "text": "Sei gegrüßt, o Königin, Mutter der Barmherzigkeit,\nunser Leben, unsre Wonne und unsre Hoffnung, sei gegrüßt!\n\nZu dir rufen wir verbannte Kinder Evas;\nzu dir seufzen wir trauernd und weinend in diesem Tal der Tränen.\n\nWohlan denn, unsere Fürsprecherin,\nwende deine barmherzigen Augen uns zu,\nund nach diesem Elend zeige uns Jesus,\ndie gebenedeite Frucht deines Leibes.\n\nO gütige, o milde, o süße Jungfrau Maria!\n\nBitte für uns, heilige Gottesmutter,\ndass wir würdig werden der Verheißungen Christi.",
+    "tags": [
+      "Verzweiflung",
+      "Fürbitte",
+      "Sehnsucht",
+      "Trauer",
+      "Einsamkeit"
+    ],
+    "category": "Klassiker",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "202",
+    "title": "Angelus",
+    "shortDescription": "Das dreimal täglich gebetete Marianische Gebet aus dem 13. Jahrhundert, das die Verkündigung durch den Erzengel Gabriel meditiert und mit drei Ave Maria verbunden wird.",
+    "author": null,
+    "text": "Der Engel des Herrn brachte Maria die Botschaft,\nund sie empfing vom Heiligen Geist.\nGegrüßet seist du, Maria …\nMaria sprach: Siehe, ich bin die Magd des Herrn;\nmir geschehe nach deinem Wort.\nGegrüßet seist du, Maria …\nUnd das Wort ist Fleisch geworden\nund hat unter uns gewohnt.\nGegrüßet seist du, Maria …\n\nBitte für uns, heilige Gottesmutter,\ndass wir würdig werden der Verheißungen Christi.\nLasset uns beten:\nAllmächtiger Gott, gieße deine Gnade in unsere Herzen ein.\nDurch die Botschaft des Engels\nhaben wir die Menschwerdung Christi, deines Sohnes, erkannt.\nLass uns durch sein Leiden und Kreuz\nzur Herrlichkeit der Auferstehung gelangen.\nDarum bitten wir durch Christus, unsern Herrn.\n\nAmen.",
+    "tags": [
+      "Bekenntnis",
+      "Vertrauen",
+      "Fürbitte",
+      "Gottesdienst",
+      "Demut"
+    ],
+    "category": [
+      "Klassiker",
+      "Tageszeiten"
+    ],
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "203",
+    "title": "Regina caeli",
+    "shortDescription": "Das Ostermariengebet aus dem 12. Jahrhundert, das in der Osterzeit den Angelus ersetzt und Maria aufruft, über die Auferstehung Christi freudig zu jubeln.",
+    "author": null,
+    "text": "Freu dich, du Himmelskönigin, Halleluja!\n\nDen du zu tragen würdig warst, Halleluja,\n\ner ist auferstanden, wie er gesagt hat, Halleluja.\n\nBitt Gott für uns, Halleluja.\n\nFreue dich und frohlocke, Jungfrau Maria, Halleluja,\n\ndenn der Herr ist wahrhaft auferstanden, Halleluja.\n\nLasset uns beten:\n\nAllmächtiger Gott,\n\ndurch die Auferstehung deines Sohnes, unseres Herrn Jesus Christus,\n\nhast du die Welt mit Jubel erfüllt.\n\nLass uns durch seine jungfräuliche Mutter Maria zur unvergänglichen Osterfreude gelangen.\n\nDarum bitten wir durch Christus, unsern Herrn.\n\nAmen.",
+    "tags": [
+      "Freude",
+      "Lobpreis",
+      "Hoffnung",
+      "Ostern",
+      "Festgebet"
+    ],
+    "category": "Klassiker",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
       {
     "id": "217",
     "title": "Gebet um göttliche Fülle und Vertrauen",
