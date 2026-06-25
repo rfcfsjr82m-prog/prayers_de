@@ -273,18 +273,233 @@
       "female": null
     }
   },
-     {
-    "id": "217",
-    "title": "Gebet um göttliche Fülle und Vertrauen",
-    "shortDescription": null,
-    "author": null,
-    "text": "Gott, Quelle allen Lichtes,\naus Deinem Licht komme ich.\nGott, Quelle aller Liebe,\nin Deiner Liebe stehe ich.\nGott, Quelle aller Kraft,\naus Deiner Kraft lebe ich.\nGott, Herz allen Lebens,\nin Dir finde ich meinen Ursprung.\n\nIch komme vor Dich und bitte:\n\nLass mich wohnen inmitten Deiner unendlichen Fülle.\nDu bist meine Quelle, mein Ursprung und meine Versorgung.\nDer Strom des Lebens hört niemals auf zu fließen.\nLass ihn durch mich hindurchfließen\nund in meinem Leben sichtbar werden.\n\nÖffne mein Herz für das Gute,\ndas Du mir schenken willst.\nLass mich erkennen, dass Dein Segen\nauf vielen Wegen zu mir kommt,\nauch dort, wo ich ihn nicht erwarte.\n\nÖffne meinen Geist,\ndamit ich empfangen kann,\nwas Du für mich bereithältst.\nNichts ist zu gut, wenn es aus Deiner Hand kommt.\nNichts ist zu wunderbar, wenn Du es wirkst.\nMit Dir als meiner Quelle\nwill ich lernen, dem Leben zu vertrauen.\n\nBefreie mich von der Last der Vergangenheit\nund von der Sorge um die Zukunft.\nWas vergangen ist, lege ich in Deine Hände.\nWas noch kommen wird, vertraue ich Deiner Führung an.\n\nStärke meinen Glauben.\nFühre mich zu klarem, mutigem und liebevollem Handeln.\nLass meine Wege aus der Verbindung mit Dir entstehen.\nLass Deine Fülle in meinem Leben Gestalt annehmen.\n\nIch bitte Dich:\nErhebe mich in diesem Augenblick\nund in jedem Augenblick\nin Deine höhere Wahrheit.\nSchenke meinem Geist Ruhe.\nSchenke meinem Herzen Frieden.\n\nVon diesem Tag an\nmöchte ich frei und ohne Angst geben.\nLass mich dem Leben mit offenem Herzen begegnen.\nUnd lass das Leben mir zurückgeben,\nwas Du in Deiner Güte für mich bereitet hast.\n\nDein Segen kommt auf erwarteten\nund unerwarteten Wegen.\nDu sorgst für mich auf wunderbare Weise.\n\nDafür bin ich wahrhaft dankbar.\n\nAmen.",
-    "tags": ["Vertrauen", "Sehnsucht", "Bitte", "Stärke", "Wohlstand"],
+    {
+    "id": "111",
+    "title": "O Liebe, o Liebe!",
+    "shortDescription": "Der mystische Liebesruf der Karmelitin Maria Magdalena von Pazzi, die eine Stimme erbittet, stark genug, um die göttliche Liebe der ganzen Welt unaufhörlich zu verkünden.",
+    "author": "Maria Magdalena von Pazzi",
+    "text": "O Liebe, o Liebe!\ngib mir eine so starke Stimme,\no mein Herr,\ndaß wenn sie dich Liebe nennt,\nsie gehört werde vom Osten bis zum Westen\nund von allen Teilen der Welt bis in die Hölle,\ndamit du erkannt und verehrt werdest als die wahre Liebe.\n\nO Liebe, du durchdringst und durchbohrst,\ndu zerreißest und bindest,\ndu regierst alle Dinge,\ndu bist Himmel und Erde,\nFeuer und Luft,\nBlut und Wasser :\ndu bist Gott und Mensch.",
+    "tags": [
+      "Gottesliebe",
+      "Lobpreis",
+      "Sehnsucht",
+      "Gottesbegegnung"
+    ],
+    "category": "Sehnsucht & Gottsuche",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "112",
+    "title": "Führe mich, o Herr",
+    "shortDescription": "Ein schlichtes Morgengebet des Barockkomponisten Heinrich Albert um Führung, Schutz und Begleitung durch den Tag nach Gottes Wort und Willen.",
+    "author": "Heinrich Albert",
+    "text": "Führe mich, o Herr, und leite\nmeinen Gang nach deinem Wort.\n\nSei und bleibe du auch heute\nmein Beschützer und mein Hort.\n\nNirgends als von dir allein\nkann ich recht bewahret sein.",
+    "tags": [
+      "Führung",
+      "Vertrauen",
+      "Schutz",
+      "Morgengebet"
+    ],
+    "category": [
+      "Führung & Begleitung",
+      "Tageszeiten"
+    ],
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "113",
+    "title": "Zu wem soll ich rufen, Herr",
+    "shortDescription": "Pascals leidenschaftliches Gebet der ausschließlichen Hinwendung zu Gott – alles, was nicht Gott ist, ist nichts und kann das Herz nicht füllen; nur in Ihm findet die Seele Ruhe.",
+    "author": "Blaise Pascal",
+    "text": "Zu wem soll ich rufen, Herr,\nzu wem meine Zuflucht nehmen,\nwenn nicht zu Dir?\n\nAlles, was nicht Gott ist,\nkann meine Hoffnung nicht erfüllen.\n\nGott selbst verlange und suche ich;\nan Dich allein, mein Gott,\nwende ich mich, um Dich zu erlangen.\n\nDu allein hast meine Seele erschaffen können,\nDu allein kannst sie aufs neue erschaffen;\nDu allein hast ihr Dein Bildnis einprägen können,\nDu allein kannst sie umprägen\nund ihr Dein ausgelöschtes Antlitz\nwieder eindrücken, welches ist Christus,\nmein Heiland, der Dein Bild ist\nund das Zeichen Deines Wesens.",
+    "tags": [
+      "Gottsuche",
+      "Sehnsucht",
+      "Verzweiflung",
+      "Klage",
+      "Erneuerung"
+    ],
+    "category": "Krisenzeiten",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "114",
+    "title": "Mein Gott, ich glaube fest",
+    "shortDescription": "Ein Akt des Vertrauens und der Hingabe, der festen Glauben an Gottes Fürsorge für alle Hoffenden bekennt und den eigenen Willen bedingungslos dem göttlichen unterwirft.",
+    "author": "Claude de la Colombière",
+    "text": "Mein Gott, ich glaube fest, daß Du über alle jene wachst,\ndie auf Dich hoffen,\nund bin so fest überzeugt, daß dem gar nichts fehlen kann,\nder alles von Dir erwartet,\ndaß ich mich entschlossen habe, künftig ohne jede Unruhe zu leben\nund alle meine Sorgen auf Dich zu werfen.\n\nDie Menschen können mich meiner Ehre und meiner Güter berauben;\nKrankheiten können mir meine Kräfte nehmen\nund die Mittel, Dir zu dienen;\nich kann selbst durch die Sünde Deine Gnade verlieren;\naber niemals werde ich meine Hoffnung verlieren;\nich will sie bewahren bis zum letzten Augenblick meines Lebens,\nund alle bösen Geister der Hölle werden alsdann vergebens versuchen, sie mir zu entreißen.\n\nFür mich, o Herr, ist der Grund meines Vertrauens mein Vertrauen selbst.\nIch habe also die Gewißheit, ewig glücklich zu sein,\nweil ich fest hoffe, es zu werden,\nund weil ich das von Dir hoffe, o mein Gott!\nUnd um meine Hoffnung bis auf das äußerste Maß auszudehnen,\nso hoffe ich Dich selbst von Dir selbst, o mein Schöpfer,\nfür Zeit und Ewigkeit.",
+    "tags": [
+      "Hoffnung",
+      "Vertrauen",
+      "Prüfung",
+      "Stärke",
+      "Mut"
+    ],
     "category": "Gottvertrauen & Hingabe",
     "holiday": null,
     "theology": null,
     "estimatedMinutes": null,
-    "audio": { "male": null, "female": null }
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "115",
+    "title": "Laß mich erkennen, wie vergänglich das Irdische",
+    "shortDescription": "Papst Clemens XI. erbittet die Gnade, das Vergängliche als vergänglich und das Ewige als entscheidend zu erkennen – ein Gebet für richtige Prioritäten im kurzen Erdenleben.",
+    "author": "Papst Clemens XI.",
+    "text": "Laß mich erkennen,\nwie vergänglich das Irdische ist,\nwie entscheidend das Himmlische,\nwie kurz die Zeit,\nwie lang die Ewigkeit.\n\nGib, daß ich meinen Tod vor Augen halte,\nmit Ernst an Dein Gericht denke,\nder Verwerfung entgehe\nund den Himmel erlange.",
+    "tags": [
+      "Vergänglichkeit",
+      "Lebensende",
+      "Demut",
+      "Kontemplation"
+    ],
+    "category": [
+      "Im Alter",
+      "Tod & Ewigkeit"
+    ],
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "116",
+    "title": "Herr, ich weiß nicht, um was ich dich bitten soll",
+    "shortDescription": "Fénelons Gebet völliger Übergabe – der Beter gesteht seine Unwissenheit darüber, was er braucht, und überlässt sich ganz der liebenden Fürsorge Gottes, der ihn besser kennt als er selbst.",
+    "author": "François Fénelon",
+    "text": "Herr,\nich weiß nicht, um was ich dich bitten soll.\n\nNur du weißt, was ich brauche.\n\nDu liebst mich besser, als ich mich selbst zu lieben weiß.\n\nO Vater, gib deinem Kinde, wovon es selbst nicht weiß,\nwie es dich darum bitten soll.\n\nIch wage dich nicht zu bitten, weder um Kreuze noch um Tröstungen;\nich bringe einfach mein Herz dir dar\nund öffne mein Herz für dich.\n\nSieh an meine Nöte, die ich selbst nicht kenne;\nsieh her und tu an mir nach deiner fürsorglichen Güte.\n\nSchlage oder heile, beuge mich nieder oder richte mich auf;\nich bete all dein Ratschlüsse an, ohne sie zu kennen.\n\nIch schweige nur;\nich bringe mich dir zum Opfer,\nich gebe mich dir hin.\n\nIch habe kein anderes Verlangen, als deinen Willen zu tun.\n\nLehre mich beten.\nBete du in mir.\n\nAmen",
+    "tags": [
+      "Ratlosigkeit",
+      "Hingabe",
+      "Vertrauen",
+      "Stille",
+      "Entscheidung"
+    ],
+    "category": [
+      "Gottvertrauen & Hingabe",
+      "Krisenzeiten"
+    ],
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "117",
+    "title": "Gott ist ein stiller Geist",
+    "shortDescription": "Tersteegens Gedicht über Gott als stillen, allgegenwärtigen Geist, zu dem man sich nur in innerer Stille und Gelassenheit nahen kann – ohne Hast und ohne viele Worte.",
+    "author": "Gerhard Tersteegen",
+    "text": "Gott ist ein stiller Geist,\nder überall zugegen;\n\nDrum, wer ihm nahen will,\ndarf sich nicht viel bewegen;\n\nVerlier, was bildlich ist,\nund brauch nicht viel Gewalt,\n\nKehr sanft in stillem Geist:\nIch weiß, du findst ihn bald.",
+    "tags": [
+      "Stille",
+      "Gottsuche",
+      "Kontemplation",
+      "Sehnsucht"
+    ],
+    "category": "Sehnsucht & Gottsuche",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "118",
+    "title": "Abendopfer",
+    "shortDescription": "Tersteegens Abendgebet der Dankbarkeit und Hingabe, in dem das Herz sich am Ende des Tages still und dankbar dem holden Angesicht Gottes zuwendet.",
+    "author": "Gerhard Tersteegen",
+    "text": "Nun sich der Tag geendet,\nMein Herz zu dir sich wendet\nUnd danket inniglich.\nDein holdes Angesichte\nZum Segen auf mich richte,\nErleuchte und entzünde mich.\n\nIch schließe mich aufs neue\nIn deine Vatertreue\nUnd Schutz und Herze ein.\nDie fleischlichen Geschäfte\nUnd alle finstern Kräfte\nVertreibe durch dein Nahesein.\n\nDaß du mich stets umgibest,\nDaß du mich herzlich liebest\nUnd rufst zu dir hinein,\nDaß du vergnügst alleine,\nSo wesentlich, so reine,\nLaß früh und spät mir wichtig sein!\n\nEin Tag, der sagt dem andern,\nMein Leben sei ein Wandern,\nZur großen Ewigkeit.\nO Ewigkeit, so schöne,\nMein Herz an dich gewöhne,\nMein Heim ist nicht in dieser Zeit.",
+    "tags": [
+      "Abendgebet",
+      "Dankbarkeit",
+      "Tagesabschluss",
+      "Hingabe",
+      "Schutz"
+    ],
+    "category": "Tageszeiten",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "119",
+    "title": "Gelassenheitsgebet",
+    "shortDescription": "Das klassische Gelassenheitsgebet – Bitte um Gelassenheit für das Unveränderliche, Mut für das Veränderliche und Weisheit, beides zu unterscheiden.",
+    "author": "F. Chr. Oetinger",
+    "text": "Herr, gib mir die Gelassenheit,\nDinge hinzunehmen, die ich nicht ändern kann.\n\nGib mir den Mut,\nDinge zu ändern, die ich ändern kann.\n\nUnd gib mir die Weisheit,\ndas eine vom andern zu unterscheiden.",
+    "tags": [
+      "Gelassenheit",
+      "Entscheidung",
+      "Angst",
+      "Stärke",
+      "Mut"
+    ],
+    "category": [
+      "Klassiker",
+      "Gottvertrauen & Hingabe"
+    ],
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "120",
+    "title": "Gib mir, o Herr, ein kindlich Herz",
+    "shortDescription": "Sailers Bitte um verschiedene Herzenshaltungen: kindlich im Glauben, mütterlich in der Liebe, männlich in der Geduld im Leiden, brüderlich im Dienst am Nächsten.",
+    "author": "Johann Michael Sailer",
+    "text": "Gib mir, o Herr,\nein kindlich Herz zum Glauben,\nein mütterliches Herz zum Lieben,\nein männliches Herz zum Handeln!\n\nGib mir zur Kindlichkeit im Glauben:\nGewißheit!\nZur Mütterlichkeit im Lieben:\nLauterkeit und Innigkeit!\nZur Mannhaftigkeit im Handeln:\nDemut und Zuversicht!\n\nDann bin ich reich genug,\nund alle meine Gebete sind erhört.",
+    "tags": [
+      "Herzensformung",
+      "Glaube",
+      "Demut",
+      "Stärke",
+      "Mut"
+    ],
+    "category": "Führung & Begleitung",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
   },
   {
     "id": "217",
