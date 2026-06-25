@@ -1763,6 +1763,332 @@
     }
   },
       {
+    "id": "204",
+    "title": "Memorare",
+    "shortDescription": "Das Heiligem Bernhard von Clairvaux zugeschriebene Vertrauensgebet zu Maria – mit der Gewissheit, dass noch niemand unerhört blieb, der in Not zu ihr floh und Schutz suchte.",
+    "author": "Heiliger Bernhard von Clairvaux",
+    "text": "Gedenke, o gütigste Jungfrau Maria,\nwie es noch nie erhört worden ist,\ndass jemand, der zu dir seine Zuflucht genommen,\ndeine Hilfe angerufen,\num deine Fürbitte gefleht hat,\nvon dir sei verlassen worden.\n\nVon diesem Vertrauen beseelt,\nnehme ich meine Zuflucht zu dir, o Mutter,\nJungfrau der Jungfrauen.\n\nZu dir komme ich,\nvor dir stehe ich armer Sünder.\n\nMutter des ewigen Wortes,\nverschmähe nicht meine Worte,\nsondern höre mich gnädig an und erhöre mich.\n\nAmen.",
+    "tags": [
+      "Verzweiflung",
+      "Fürbitte",
+      "Schuld",
+      "Scheitern",
+      "Vertrauen"
+    ],
+    "category": "Klassiker",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "205",
+    "title": "Herr, sei du vor mir",
+    "shortDescription": "Ein frühchristliches Begleitgebet aus dem 4. Jahrhundert, das Gott als allseitigen Begleiter erbittet – vor dem Beter, neben ihm, hinter ihm, über und unter ihm.",
+    "author": null,
+    "text": "Herr, sei du vor mir, um mir den Weg zu zeigen.\n\nHerr, sei du neben mir, um mich in deine Arme zu schließen und mich zu schützen.\n\nHerr, sei du unter mir,\num mich aufzufangen, wenn ich falle,\nund mich aus der Schlinge zu ziehen.\n\nHerr, sei du in mir, um mich zu trösten, wenn ich traurig bin.\n\nHerr, sei du um mich herum, um mich zu verteidigen, wenn andere über mich herfallen.\n\nHerr, sei über mir, um mich zu segnen.",
+    "tags": [
+      "Schutzgebet",
+      "Angst",
+      "Vertrauen",
+      "Stärke",
+      "Mut"
+    ],
+    "category": "Führung & Begleitung",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "206",
+    "title": "Aarons Segen",
+    "shortDescription": "Der Aaronitische Segen aus dem Buch Numeri (Num 6,24-26) – Gottes dreifacher Segen: Behütung, das Leuchten seines Angesichts und der Frieden, den er schenkt.",
+    "author": null,
+    "text": "Der Herr segne und behüte uns.\nEr lasse sein Angesicht über uns leuchten\nund sei uns gnädig.\nEr schaue auf uns\nund schenke uns seinen Frieden.",
+    "tags": [
+      "Segen",
+      "Vertrauen",
+      "Sehnsucht",
+      "Abschluss",
+      "Wohlstand"
+    ],
+    "category": "Klassiker",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "207",
+    "title": "Alkuin-Gebet",
+    "shortDescription": "Alkuins Bitte um einen Verstand, der Gott wahrnimmt, ein Herz, das Ihn liebt, einen Willen, der Ihm folgt und eine Ausdauer, die Ihn vertrauend erwartet.",
+    "author": "Alkuin von York",
+    "text": "Verleihe mir, ich bitte dich, gütiger Herr und heiliger Vater,\neinen Verstand, der dich wahrnimmt,\neinen Sinn, der dich versteht,\nein Gemüt, das an dir Wohlgefallen hat,\neinen Eifer, der dich sucht,\neine Weisheit, die dich findet,\neinen Geist, der dich erkennt,\nein Herz, das dich liebt,\neine Seele, die an dich denkt,\nein Tun, das dich verherrlicht,\nOhren, die dich hören,\nAugen, die dich sehen,\neine Zunge, die dich preist,\neinen Wandel, der dir wohlgefällt,\neine Geduld, die dich erträgt,\neine Beharrlichkeit, die dich erwartet,\nein vollkommenes Lebensende,\neine beseligende Anschauung im ewigen Leben.\n\nAmen.",
+    "tags": [
+      "Sehnsucht",
+      "Kontemplation",
+      "Demut",
+      "Bitte",
+      "Glaubensstärkung"
+    ],
+    "category": "Führung & Begleitung",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "208",
+    "title": "Herr, wie du willst",
+    "shortDescription": "Das schlichte Hingabe-Gebet des seligen Pater Rupert Mayer SJ – dreifaches Ja zu Gottes Willen: wie du willst soll es geschehen, wie du willst will ich gehen.",
+    "author": "Pater Rupert Mayer SJ",
+    "text": "Herr, wie du willst, soll mir gescheh'n,\nund wie du willst, so will ich geh'n;\nhilf deinen Willen nur versteh'n!\n\nHerr, wann du willst, dann ist es Zeit;\nund wann du willst, bin ich bereit\nheut und in alle Ewigkeit.\n\nHerr, was du willst, das nehm' ich hin,\nund was du willst, ist mir Gewinn;\ngenug, dass ich dein Eigen bin.\n\nHerr, weil du's willst, drum ist es gut;\nund weil du's willst, drum hab ich Mut.\nMein Herz in deinen Händen ruht.",
+    "tags": [
+      "Hingabe",
+      "Vertrauen",
+      "Demut",
+      "Stärke",
+      "Mut"
+    ],
+    "category": "Gottvertrauen & Hingabe",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "209",
+    "title": "Schenke mir eine gute Verdauung",
+    "shortDescription": "Das humorvolle Gebet des Märtyrers Thomas Morus für Gesundheit, gesunden Humor und den Sinn für die Leichtigkeit des Lebens – ohne Selbstmitleid und mit Gottvertrauen.",
+    "author": "Heiliger Thomas Morus",
+    "text": "Schenke mir eine gute Verdauung, Herr,\nund auch etwas zum Verdauen.\n\nSchenke mir Gesundheit des Leibes,\nmit dem nötigen Sinn dafür, ihn möglichst gut zu erhalten.\n\nSchenke mir eine heilige Seele, Herr,\ndie das im Auge behält, was gut ist und rein,\ndamit sie im Augenblick der Sünde nicht erschrecke,\nsondern das Mittel finde, die Dinge wieder in Ordnung zu bringen.\n\nSchenke mir eine Seele, der die Langeweile fremd ist,\ndie kein Murren kennt und kein Seufzen und Klagen,\nund lass nicht zu, dass ich mir allzu viel Sorgen mache\num dieses sich breit machende Etwas, das sich »Ich« nennt.\n\nHerr, schenke mir Sinn für Humor,\ngib mir die Gnade, einen Scherz zu verstehen,\ndamit ich ein wenig Glück kenne im Leben\nund anderen davon mitteile.",
+    "tags": [
+      "Alltag",
+      "Dankbarkeit",
+      "Bitte",
+      "Freude",
+      "Kontemplation"
+    ],
+    "category": "Im Alter",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "210",
+    "title": "Müde bin ich, geh zur Ruh",
+    "shortDescription": "Luise Hensels bekanntes Abend-Kindergebet – in der Einfachheit eines müden Kindes, das die Augen schließt und sein Herz und das der Anderen Gott in der Nacht anvertraut.",
+    "author": "Luise Hensel",
+    "text": "Müde bin ich, geh zur Ruh,\nschließe meine Augen zu.\n\nVater, lass die Augen dein\nüber meinem Bette sein.\n\nHab ich Unrecht heut getan,\nsieh es, lieber Gott, nicht an.\n\nDeine Gnad und Jesu Blut\nmachen allen Schaden gut.\n\nAlle, die mir sind verwandt,\nGott, lass ruhn in deiner Hand;\n\nalle Menschen, groß und klein,\nsollen dir befohlen sein.\n\nKranken Herzen spende Ruh,\nmüde Augen schließe zu;\n\nlass den Mond am Himmel stehn\nund die stille Welt besehn!",
+    "tags": [
+      "Abendgebet",
+      "Schuld",
+      "Vertrauen",
+      "Schlaf",
+      "Bitte"
+    ],
+    "category": [
+      "Tageszeiten",
+      "Klassiker"
+    ],
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "211",
+    "title": "Jahreswechsel",
+    "shortDescription": "Sailers Dankgebet zum Jahreswechsel – Dankbarkeit für das vergangene Jahr, Übergabe des neuen Jahres an Gott und Bitte um Begleitung auf dem Weg des nächsten Jahres.",
+    "author": "Johann Michael Sailer",
+    "text": "Wieder vorübergegangen ist ein Jahr,\nund ich bin noch.\n\nDir, o himmlischer Vater, sei Lob, Dank und Preis\nfür alle Gaben und Wohltaten,\ndie ich im Laufe dieses Jahres aus deiner väterlichen Hand empfangen habe.\n\nEin Jahr sagt es dem andern,\nwie voll der Liebe und Milde unser Gott ist,\nund wie unendlich reich deine Erbarmungen und Segnungen sind.",
+    "tags": [
+      "Jahreswechsel",
+      "Dankbarkeit",
+      "Hoffnung",
+      "Rückblick",
+      "Wohlstand"
+    ],
+    "category": [
+      "Dankbarkeit",
+      "Tageszeiten"
+    ],
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "212",
+    "title": "Friedensgebet",
+    "shortDescription": "Das universale Friedensgebet des amerikanischen Dichters Stephen Vincent Benét – Bitte, die kleine Erde zu einem Planeten des Friedens zu machen, frei von Hass und Rüstung.",
+    "author": "Stephen Vincent Benét",
+    "text": "Herr, unsere Erde ist nur ein kleines Gestirn im großen Weltall.\n\nAn uns liegt es, daraus einen Planeten zu machen,\ndessen Geschöpfe nicht von Kriegen gepeinigt werden,\nnicht von Hunger und Furcht gequält,\nnicht zerrissen in sinnloser Trennung nach Rasse, Hautfarbe oder Weltanschauung.\n\nGib uns den Mut und die Voraussicht,\nschon heute mit diesem Werk zu beginnen,\ndamit unsere Kinder und Kindeskinder einst mit Stolz den Namen Mensch tragen.",
+    "tags": [
+      "Hoffnung",
+      "Frieden",
+      "Fürbitte",
+      "Krieg",
+      "Mut"
+    ],
+    "category": "Schöpfung & Frieden",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "213",
+    "title": "Sonnengesang",
+    "shortDescription": "Heiliger Franz von Assisis großer Lobgesang auf die Schöpfung – Bruder Sonne, Schwester Mond, Bruder Wind und Schwester Wasser sowie die brüderliche Schwester Tod als Träger von Gottes Lob.",
+    "author": "Heiliger Franz von Assisi",
+    "text": "Gott in der Höhe, allmächtiger und gütiger Herr!\nPreis sei dir und Ruhm, Ehre und Anbetung.\nDir allein, o Höchster, gebühren sie.\nKeiner ist würdig, dich nur zu nennen.\n\nGelobet seist du, o Herr, mit allen deinen Geschöpfen,\nvornehmlich mit der edlen Schwester Sonne,\ndie uns den Tag und das Licht bringt.\nSchön ist sie und strahlt in hellem Glanze:\ndein Zeichen, o Höchster.\nGelobet seist du, o Herr, durch den Bruder Mond und die Sterne.\nDu hast sie geschaffen am Himmel, hell und kostbar und schön.\nGelobet seist du, o Herr, durch den Bruder Wind,\ndurch Lufthauch und Gewölk, heit'res und jederlei Wetter,\ndurch das du deine Geschöpfe erhältst.\n\nGelobet seist du, o Herr, durch die Schwester, das Wasser.\nWie nützlich ist es und kostbar, köstlich und keusch.\nGelobet seist du, o Herr, durch den Bruder, das Feuer,\ndurch das du die Nacht erleuchtest.\nWie schön und freudig ist es, gewaltig und stark.\nGelobet seist du, o Herr, durch unsre Schwester, die Mutter Erde,\ndie uns trägt und ernährt\nund spendet Früchte die Fülle, bunte Blumen und Kräuter.\n\nGelobet seist du, o Herr, durch die, so vergeben in deiner Liebe\nund tragen Pein und Bedrängnis.\nSelig, die dulden in Frieden.\nDenn du, o Höchster, wirst sie krönen.\nGelobet seist du, o Herr, durch unsern Bruder, den leiblichen Tod,\ndem kein Lebendiger kann entrinnen.\nWeh denen, die sterben in Todes Sünden.\nDoch selig, die getan nach deinem heiligsten Willen.\nKein Leid wird ihnen antun der andere Tod.\n\nLobet und preiset den Herrn mit Danken\nund dienet ihm in Furcht und Demut.",
+    "tags": [
+      "Lobpreis",
+      "Dankbarkeit",
+      "Ehrfurcht",
+      "Natur",
+      "Anbetung"
+    ],
+    "category": [
+      "Klassiker",
+      "Schöpfung & Frieden",
+      "Lob & Preis"
+    ],
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "215",
+    "title": "Gott sei stets in mir",
+    "shortDescription": "Ein meditativer Segenstext, der Gott in allen Sinnen, Gedanken, Worten und Werken des Menschen gegenwärtig wünscht – ein Gebet um Gottes Einwohnung in der ganzen Person.",
+    "author": null,
+    "text": "Gott sei stets in mir,\nin allen meinen Sinnen,\nsei im Augenlicht\nund in den Blicken,\nsei in meinem Mund\nund in den Worten,\nsei in meinem Herzen\nund im Denken.\n\nGott sei auch in mir in der letzten Stunde.",
+    "tags": [
+      "Vertrauen",
+      "Hingabe",
+      "Kontemplation",
+      "Stille",
+      "Sehnsucht"
+    ],
+    "category": [
+      "Führung & Begleitung",
+      "Tod & Ewigkeit"
+    ],
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "216",
+    "title": "Ein Segensgebet",
+    "shortDescription": "Ein abschließendes Segensgebet, das den Segen des starken Gottes über die Gemeinschaft erbittet und zur sakramentalen Begegnung mit dem dreifaltigen Gott einlädt.",
+    "author": null,
+    "text": "Der Gott der Stärke sei mit uns,\nder uns in starken und liebenden Händen hält.\nMögen wir das Sakrament der Stärke Gottes sein\nfür alle, deren Hände wir halten.\nDer Segen der Stärke sei mit uns.\n\nDer Gott der Sanftmut sei mit uns,\nder uns mit Sonnenlicht, Regen und Wind liebkost.\nMöge Gottes Zärtlichkeit durch uns hindurchscheinen,\num alle zu wärmen, die verletzt und einsam sind.\nDer Segen der Sanftmut sei mit uns.\n\nDer Gott des Staunens sei mit uns,\nder uns mit Sonnenaufgang und Sonnenuntergang erfreut,\nunsere Sinne verzaubert, unsere Herzen erfüllt\nund uns weit geöffnete Augen schenkt,\ndamit wir die Herrlichkeit im Schlichten wie im Erhabenen sehen.\nMögen wir die Augen, Hände und Herzen\nder Blinden, Tauben und Gleichgültigen öffnen.\nDer Segen des Staunens sei mit uns.\n\nDer Gott des Mitgefühls sei mit uns,\nder uns nahe hält, wenn wir müde, verletzt und allein sind.\nUnd mögen wir die warmen Hände und Augen des Mitgefühls\nfür unsere Schwestern und Brüder sein,\nwenn sie sich uns zuwenden.\nDer Segen des Mitgefühls sei auf uns.\n\nDer Gott der Einfachheit sei mit uns,\nder uns einen klaren Blick für das Wirkliche und Wahre öffnet\nund uns tief in das Geheimnis der Kindheit führt.\nUnd möge unser Umgang miteinander von Ehrlichkeit geprägt sein,\ndenn Ehrlichkeit ist Einfachheit.\nDer Segen der Einfachheit sei auf uns.\n\nDer Gott der Freude sei mit uns,\nder uns mit seiner Nähe erschauern lässt,\nunsere Herzen bis zur Fülle erfüllt\nund unsere Kehlen mit Lachen und Gesang füllt.\nMöge unsere Freude anderen Leben und Freude bringen.\nDer Segen der Freude sei mit uns allezeit.\n\nDer Gott der Liebe sei mit uns.\nMöge unser Leben ein beständiges Geben und Empfangen von Liebe sein —\nmit unserem Gott, mit unseren Freunden\nund mit allen, deren Leben wir berühren.\nMöge Gottes Liebe in uns Feuer des Glaubens und der Hoffnung entzünden,\nund möge dieses Feuer wachsen, tief brennen und die Erde entflammen.\nDer Segen der Liebe und Freundschaft sei mit uns allezeit.",
+    "tags": [
+      "Segen",
+      "Hoffnung",
+      "Gemeinschaft",
+      "Fürbitte",
+      "Stärke"
+    ],
+    "category": [
+      "Führung & Begleitung",
+      "Schöpfung & Frieden"
+    ],
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "218",
+    "title": "Morgengebet",
+    "shortDescription": "Luthers klassisches Morgengebet aus dem Kleinen Katechismus – Dank für die nächtliche Bewahrung, Bitte um Gottes Schutz für den neuen Tag und Hingabe von Leib und Seele in Gottes Hände.",
+    "author": "Martin Luther",
+    "text": "Ich danke dir, mein himmlischer Vater,\ndurch Jesum Christum, deinen lieben Sohn,\ndass du mich diese Nacht vor allem Schaden und Gefahr behütet hast,\nund bitte dich, du wollest mich diesen Tag auch behüten\nvor Sünden und allem Übel,\ndass all mein Tun und Leben dir gefalle.\n\nDenn ich befehle mich, meinen Leib und Seele und alles,\nin deine Hände.\n\nDein heiliger Engel sei mit mir,\ndass der böse Feind keine Macht an mir finde.\n\nAmen.",
+    "tags": [
+      "Dankbarkeit",
+      "Morgendank",
+      "Schutz",
+      "Hingabe",
+      "Vertrauen"
+    ],
+    "category": [
+      "Tageszeiten",
+      "Klassiker"
+    ],
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "219",
+    "title": "Gebet um göttliche Versorgung",
+    "shortDescription": "Ein Gebet an den Himmlischen Vater, das Dank für empfangene Segnungen ausdrückt und um göttliche Fülle in Finanzen, Gesundheit und Beziehungen bittet. Es fleht um die Entfernung von Hindernissen, um Weisheit und ein großzügiges Herz, um den empfangenen Überfluss zu teilen und auf Gottes Führung zu vertrauen.",
+    "author": null,
+    "text": "Himmlischer Vater, göttliche Quelle aller Versorgung,\nich komme mit dankbarem Herzen vor Dich\nund danke Dir für die Segnungen, die ich bereits empfangen habe.\n\nIch bitte Dich, Deine Fülle in jeden Bereich meines Lebens auszugießen –\nin meine Finanzen, meine Gesundheit und meine Beziehungen.\n\nEntferne alle Hindernisse und begrenzenden Überzeugungen,\ndie meinen Weg zu Wohlstand und Gedeihen blockieren.\n\nSchenke mir die Weisheit, meine Mittel gut zu verwalten,\nden Mut, neue Möglichkeiten zu ergreifen,\nund ein großzügiges Herz,\ndamit ich meinen Überfluss mit den Menschen um mich herum teilen kann.\n\nFühre mich weg von Angst und Mangeldenken,\nund hilf mir, auf Dein Timing zu vertrauen.\n\nÖffne die richtigen Türen,\nschenke mir Weisheit in meinen Entscheidungen,\nund lass die Fülle, die ich empfange, auch für andere zum Segen werden.\n\nIch übergebe Dir meine Sorgen\nund vertraue darauf, dass Du mich versorgst, führst und für mich sorgst.\n\nAmen.",
+    "tags": [
+      "Wohlstand",
+      "Dankbarkeit",
+      "Führung",
+      "Segen"
+    ],
+    "category": "Dankbarkeit",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+      {
     "id": "217",
     "title": "Gebet um göttliche Fülle und Vertrauen",
     "shortDescription": null,
@@ -1787,27 +2113,6 @@
     "theology": null,
     "estimatedMinutes": null,
     "audio": { "male": null, "female": null }
-  },
-      {
-    "id": "219",
-    "title": "Gebet um göttliche Versorgung",
-    "shortDescription": "Ein Gebet an den Himmlischen Vater, das Dank für empfangene Segnungen ausdrückt und um göttliche Fülle in Finanzen, Gesundheit und Beziehungen bittet. Es fleht um die Entfernung von Hindernissen, um Weisheit und ein großzügiges Herz, um den empfangenen Überfluss zu teilen und auf Gottes Führung zu vertrauen.",
-    "author": null,
-    "text": "Himmlischer Vater, göttliche Quelle aller Versorgung,\nich komme mit dankbarem Herzen vor Dich und danke Dir für die Segnungen, die ich bereits empfangen habe.\n\nIch bitte Dich, Deine Fülle in jeden Bereich meines Lebens auszugießen – in meine Finanzen, meine Gesundheit und meine Beziehungen.\n\nEntferne alle Hindernisse und begrenzenden Überzeugungen, die meinen Weg zu Wohlstand und Gedeihen blockieren.\n\nSchenke mir die Weisheit, meine Mittel gut zu verwalten, den Mut, neue Möglichkeiten zu ergreifen, und ein großzügiges Herz, damit ich meinen Überfluss mit den Menschen um mich herum teilen kann.\n\nFühre mich weg von Angst und Mangeldenken, und hilf mir, auf Dein Timing zu vertrauen.\n\nÖffne die richtigen Türen, schenke mir Weisheit in meinen Entscheidungen, und lass die Fülle, die ich empfange, auch für andere zum Segen werden.\n\nIch übergebe Dir meine Sorgen und vertraue darauf, dass Du mich versorgst, führst und für mich sorgst.\n\nAmen.",
-    "tags": [
-      "Wohlstand",
-      "Dankbarkeit",
-      "Führung",
-      "Segen"
-    ],
-    "category": "Dankbarkeit",
-    "holiday": null,
-    "theology": null,
-    "estimatedMinutes": null,
-    "audio": {
-      "male": null,
-      "female": null
-    }
   }
   ]
 }
