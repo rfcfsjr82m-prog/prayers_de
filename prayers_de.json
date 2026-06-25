@@ -95,7 +95,6 @@
       "estimatedMinutes": 2,
       "audio": { "male": null, "female": null }
       },
-
   {
     "id": "101",
     "title": "Wende dich, Herr, mein Gott",
@@ -160,6 +159,119 @@
     "theology": null,
     "estimatedMinutes": null,
     "audio": { "male": null, "female": null }
+  },
+    {
+    "id": "106",
+    "title": "Herr, mach mich zum Werkzeug deines Friedens",
+    "shortDescription": "Das Franz von Assisi zugeschriebene Friedensgebet – ein Sendungsauftrag, Liebe, Verzeihung, Hoffnung und Licht in eine Welt von Hass, Streit und Dunkel zu tragen.",
+    "author": "Franz von Assisi",
+    "text": "O Herr, mach mich zum Werkzeug Deines Friedens,\ndaß ich Liebe übe da, wo man haßt;\ndaß ich verzeihe da, wo man sich beleidigt;\ndaß ich verbinde da, wo Streit ist;\ndaß ich Hoffnung wecke, wo Verzweiflung quält;\ndaß ich ein Licht anzünde, wo die Finsternis regiert;\ndaß ich Freude bringe, wo der Kummer wohnt.\n\nAch Herr, laß Du mich trachten,\nnicht, daß ich getröstet werde, sondern daß ich tröste;\nnicht, daß ich verstanden werde, sondern daß ich verstehe;\nnicht, daß ich geliebt werde, sondern daß ich liebe.\n\nDenn wer da hingibt, der empfängt;\nwer sich selbst vergißt, der findet;\nwer verzeiht, dem wird verziehen;\nund wer da stirbt,\nder erwacht zum ewigen Leben.\n\nAmen.",
+    "tags": [
+      "Dienst am Nächsten",
+      "Hingabe",
+      "Versöhnung",
+      "Demut",
+      "Mut"
+    ],
+    "category": [
+      "Klassiker",
+      "Schöpfung & Frieden"
+    ],
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "107",
+    "title": "Gib mir, o Herr, ein wachsames Herz",
+    "shortDescription": "Thomas von Aquins Gebet um ein wachsames, edles, aufrechtes, starkes und freies Herz, das sich durch nichts von Gott ablenken, erniedrigen oder auf Abwege führen lässt.",
+    "author": "Thomas von Aquin",
+    "text": "Gib mir, o Herr, ein wachsames Herz, das kein leichtfertiger Gedanke von dir ablenkt,\nein edles Herz, das keine unwürdige Leidenschaft erniedrigt,\nein gerades und aufrechtes Herz, das kein gemeines Streben auf Abwege führen kann,\nein starkes Herz, das keine Trübsal beugt,\nein freies Herz, das sich von keiner bösen Macht beherrschen läßt.\n\nSchenk mir, o Gott, Verstand, der dich erkennt,\nEifer, der dich sucht,\nWeisheit, die dich findet,\neinen Wandel, der dir gefällt,\nBeharrlichkeit, die gläubig dich erwartet,\nVertrauen, das am Ende dich umfängt.",
+    "tags": [
+      "Herzensformung",
+      "Sehnsucht nach Gott",
+      "Stärke",
+      "Mut"
+    ],
+    "category": "Führung & Begleitung",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "108",
+    "title": "Mein Herr und mein Gott, nimm alles von mir",
+    "shortDescription": "Das kurze, kraftvolle Gebet des Schweizer Nationalpatrons Niklaus von Flüe – ein dreifaches Loslassen und Empfangen: nimm, was hindert; gib, was fördert; nimm mich mir und gib mich ganz dir.",
+    "author": "Nikolaus von Flüe",
+    "text": "Mein Herr und mein Gott,\nnimm alles von mir, was mich hindert zu dir.\n\nMein Herr und mein Gott,\ngib alles mir, was mich fördert zu dir.\n\nMein Herr und mein Gott,\nnimm mich mir und gib mich ganz zu eigen dir.",
+    "tags": [
+      "Hingabe",
+      "Loslassen",
+      "Demut",
+      "Sehnsucht nach Gott"
+    ],
+    "category": "Gottvertrauen & Hingabe",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "109",
+    "title": "Nichts soll dich ängstigen",
+    "shortDescription": "Teresas berühmtes Lesezeichen-Gedicht – ein knapper, kraftvoller Trost: Alles vergeht, Gott allein bleibt; wer Gott hat, dem fehlt nichts, auch wenn er allein ist.",
+    "author": "Teresa von Avila",
+    "text": "Nichts soll dich ängstigen,\nnichts dich erschrecken.\n\nAlles geht vorüber.\nGott allein bleibt derselbe.\n\nAlles erreicht der Geduldige,\nund wer Gott hat, der hat alles.\n\nGott allein genügt.",
+    "tags": [
+      "Vertrauen",
+      "Angst",
+      "Trost",
+      "Stärke",
+      "Mut"
+    ],
+    "category": [
+      "Klassiker",
+      "Gottvertrauen & Hingabe"
+    ],
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "110",
+    "title": "Gebet des älter werdenden Menschen",
+    "shortDescription": "Ein der Teresa von Ávila zugeschriebenes Gebet, das mit feinem Humor die Schwächen des Alterns benennt – besonders die Schwatzhaftigkeit – und Gott bittet, davor zu bewahren.",
+    "author": "Teresa von Avila",
+    "text": "Oh Herr, Du weißt besser als ich, daß ich von Tag zu Tag älter und eines Tages alt sein werde.\n\nBewahre mich vor der Einbildung, bei jeder Gelegenheit und zu jedem Thema etwas sagen zu müssen.\n\nErlöse mich von der großen Leidenschaft, die Angelegenheiten anderer ordnen zu wollen.\n\nLehre mich, nachdenklich (aber nicht grüblerisch), hilfreich (aber nicht diktatorisch) zu sein.\n\nBei meiner ungeheuren Ansammlung von Weisheit erscheint es mir ja schade, sie nicht weiterzugeben.\n\nAber Du verstehst — oh Herr — daß ich mir ein paar Freunde erhalten möchte.\n\nBewahre mich vor der Aufzählung endloser Einzelheiten und verleihe mir Schwingen, zum Wesentlichen zu gelangen.\n\nLehre mich schweigen über meine Krankheiten und Beschwerden.\n\nSie nehmen zu — und die Lust, sie zu beschreiben, wächst von Jahr zu Jahr.\n\nIch wage nicht, die Gabe zu erflehen, mir Krankheitsschilderungen anderer mit Freude anzuhören, aber lehre mich, sie geduldig zu ertragen.\n\nLehre mich die wunderbare Weisheit, daß ich mich irren kann.\n\nErhalte mich so liebenswert wie möglich.\n\nIch möchte kein Heiliger sein, mit ihnen lebt es sich so schwer, aber ein alter Griesgram ist das Krönungswerk des Teufels.\n\nLehre mich, an anderen Menschen unerwartete Talente zu entdecken und verleihe mir, oh Herr, die schöne Gabe, sie auch zu erwähnen.",
+    "tags": [
+      "Alter",
+      "Demut",
+      "Selbsterkenntnis",
+      "Alltag"
+    ],
+    "category": "Im Alter",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
   },
      {
     "id": "217",
