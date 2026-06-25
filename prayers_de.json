@@ -83,19 +83,6 @@
           "audio": { "male": null, "female": null }
       },
       {
-      "id": "vaterunser",
-      "title": "Vaterunser",
-      "shortDescription": "Das Gebet, das Jesus seine Jünger lehrte.",
-      "author": null,
-      "text": "Vater unser im Himmel,\ngeheiligt werde dein Name.\nDein Reich komme.\nDein Wille geschehe, wie im Himmel, so auf Erden.\nUnser tägliches Brot gib uns heute,\nund vergib uns unsre Schuld,\nwie auch wir vergeben unseren Schuldigern.\nUnd führe uns nicht in Versuchung,\nsondern erlöse uns von dem Bösen.\nDenn dein ist das Reich\nund die Kraft\nund die Herrlichkeit\nin Ewigkeit.\nAmen.",
-      "tags": ["grundgebet", "jesus", "klassisch"],
-      "category": "grundgebete",
-      "holiday": null,
-      "theology": "catholic",
-      "estimatedMinutes": 2,
-      "audio": { "male": null, "female": null }
-      },
-      {
     "id": "101",
     "title": "Wende dich, Herr, mein Gott",
     "shortDescription": "Salomos Tempelweihegebet aus dem Ersten Buch der Könige, in dem er Gott bittet, seine Augen offen zu halten über dem Haus, in dem sein Name wohnt. Ein königliches Flehen um Gottes Nähe und Erhörung.",
@@ -1471,7 +1458,7 @@
   },
   {
     "id": "191",
-    "title": "Vater unser",
+    "title": "Das Vaterunser",
     "shortDescription": "Das von Jesus selbst gelehrte Gebet (Mt 6,9-13) – das Grundgebet aller Christen weltweit, das alle wesentlichen Haltungen des Betens in sich vereint.",
     "author": "Jesus Christus",
     "text": "Vater unser im Himmel,\ngeheiligt werde dein Name.\nDein Reich komme.\nDein Wille geschehe,\nwie im Himmel so auf Erden.\n\nUnser tägliches Brot gib uns heute.\nUnd vergib uns unsere Schuld,\nwie auch wir vergeben unsern Schuldigern.\n\nUnd führe uns nicht in Versuchung,\nsondern erlöse uns von dem Bösen.\n\nDenn dein ist das Reich und die Kraft\nund die Herrlichkeit in Ewigkeit.\n\nAmen.",
