@@ -501,6 +501,233 @@
       "female": null
     }
   },
+    {
+    "id": "121",
+    "title": "Mein Vater, der mich nährt und schützt",
+    "shortDescription": "Seumes demütiges Gebet eines Menschen, der weiß, wie wenig er selbst weiß, und der deshalb alle Bitten und Wünsche dem väterlichen Ermessen Gottes überlässt.",
+    "author": "Johann Gottfried Seume",
+    "text": "Mein Vater, der mich nährt und schützt:\nIch weiß so wenig, was mir nützt,\ndaß ich fast nichts zu bitten wage.\nIch halte mich allein an dich,\ndu Herr und Lenker aller Tage.\n\nNur diese Wahrheit seh ich ein:\nGib mir die Kraft, stets gut zu sein;\nso bin ich überall geborgen.\nDas andre kommt, so wie mir’s frommt,\ndafür wirst du, mein Vater, sorgen.",
+    "tags": [
+      "Vertrauen",
+      "Geborgenheit",
+      "Demut",
+      "Alltag",
+      "Stärke"
+    ],
+    "category": "Gottvertrauen & Hingabe",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "122",
+    "title": "Wenn ich betet' über meinem Kinde",
+    "shortDescription": "Rückerts zartes Gedicht über das Gebet eines Elternteils für sein Kind, in dem eine innere Stimme antwortet: Gib das Kind zurück an Gott – Er sorgt besser dafür als du.",
+    "author": "Friedrich Rückert",
+    "text": "Wenn ich betet’ über meinem Kinde:\nHerr, erhalte du sie mir!\nEine Stimme sprach in mir gelinde:\nWenn es gut ist ihr und dir.\n\nAnders fügst du’s nun mit meinem Kinde,\nHerr, als ich es bat von dir;\nDoch die Stimme spricht in mir gelinde,\nDaß es gut sei mir und ihr.\n\nDaß es gut der Mutter und dem Kinde Sei, getrennt zu werden hier,\nFass’ ich nicht;\ndie Stimme spricht gelinde,\nDaß es gut ist, Herr, vor dir.",
+    "tags": [
+      "Trauer",
+      "Verlust",
+      "Vertrauen",
+      "Hingabe",
+      "Klage"
+    ],
+    "category": "Gottvertrauen & Hingabe",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "123",
+    "title": "Morgengebet",
+    "shortDescription": "Eichendorffs Morgengedicht – die stille, feierliche Schönheit des frühen Morgens als Einladung, den neuen Tag singend und dankend Gott anzuvertrauen.",
+    "author": "Joseph von Eichendorff",
+    "text": "O wunderbares, tiefes Schweigen,\nWie einsam ist’s noch auf der Welt!\nDie Wälder nur sich leise neigen,\nAls ging der Herr durchs stille Feld.\n\nIch fühl mich recht wie neugeschaffen,\nWo ist die Sorge nun und Not?\nWas mich noch gestern wollt erschlaffen,\nIch schäm mich des im Morgenrot.\n\nDie Welt mit ihrem Gram und Glücke\nWill ich, ein Pilger frohbereit,\nBetreten nur wie eine Brücke\nZu dir, Herr, übern Strom der Zeit.\n\nUnd buhlt mein Lied, auf Weltgunst lauernd\nUnd schnöden Sold der Eitelkeit;\nZerschlag mein Saitenspiel, und schauernd\nSchweig ich vor dir in Ewigkeit.",
+    "tags": [
+      "Morgengebet",
+      "Neuanfang",
+      "Dankbarkeit",
+      "Sehnsucht",
+      "Lobpreis"
+    ],
+    "category": [
+      "Tageszeiten",
+      "Lob & Preis"
+    ],
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "124",
+    "title": "Was ich wollte, liegt zerschlagen",
+    "shortDescription": "Eichendorffs Gebet des Loslassens nach dem Scheitern eigener Pläne – das Herz gibt das Klagen auf und wird still, indem es alles in Gottes Hände legt.",
+    "author": "Joseph von Eichendorff",
+    "text": "Was ich wollte, liegt zerschlagen,\nHerr, ich lasse ja das Klagen,\nUnd das Herz ist still.\n\nNun aber gib auch Kraft, zu tragen,\nWas ich nicht will!",
+    "tags": [
+      "Scheitern",
+      "Schmerz",
+      "Hingabe",
+      "Klage",
+      "Stärke"
+    ],
+    "category": [
+      "Krisenzeiten",
+      "Gottvertrauen & Hingabe"
+    ],
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "125",
+    "title": "Mittag",
+    "shortDescription": "Eichendorffs Mittagsgebet – inmitten von Staub und Sündenverstrickung des Alltags die Bitte, dass Gott sein Zeichen zeige und den schwankenden Beter neu führe.",
+    "author": "Joseph von Eichendorff",
+    "text": "Vergeht mir der Himmel\nVor Staube schier,\nHerr, im Getümmel\nZeig Dein Panier!\n\nWie schwank’ ich sündlich,\nLäßt Du von mir;\nUnüberwindlich\nBin ich mit Dir!",
+    "tags": [
+      "Erschöpfung",
+      "Hilferuf",
+      "Vertrauen",
+      "Stärke",
+      "Mut"
+    ],
+    "category": "Tageszeiten",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "126",
+    "title": "Wie könnt ich ruhig schlafen",
+    "shortDescription": "Ein Nachtgebet der Agnes Franz, in dem der Beter bekennt, ohne das Gedenken an Gott den Vater nicht in Frieden schlafen zu können – und das Vertrauen aus Kindheitstagen erneuert.",
+    "author": "Agnes Franz",
+    "text": "Wie könnt ich ruhig schlafen in dunkler Nacht,\nWenn ich, o Gott und Vater, nicht Dein gedacht!\nEs hat des Tages Treiben mein Herz zerstreut;\nBei Dir, bei Dir ist Frieden und Seligkeit.\n\nO decke meine Mängel mit deiner Huld,\nDu bist ja, Gott, die Liebe und die Geduld.\nGib mir, um was ich flehe, ein reines Herz,\nDas dir voll Freuden diene in Lust und Schmerz.\n\nAuch hilf, daß ich vergebe, wie du vergibst,\nUnd meine Brüder liebe, wie du mich liebst.\nSo schlaf ich ohne Bangen in Frieden ein\nUnd träume süß und stille und denke Dein.",
+    "tags": [
+      "Abendgebet",
+      "Schuld",
+      "Versöhnung",
+      "Vergebung"
+    ],
+    "category": "Tageszeiten",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "127",
+    "title": "Morgenlied",
+    "shortDescription": "Droste-Hülshoffs Morgengedicht, das mit dem aufgehenden Licht, dem Morgentau und dem erwachenden Leben den neuen Tag als Geschenk und Aufgabe Gottes begrüßt.",
+    "author": "Annette von Droste-Hülshoff",
+    "text": "Der Morgenstrahl\nSteht auf dem Tal,\nDie Nebel ziehen drunter her,\nUnd auf der Au\nLiegt still der Tau\nWie Perlen in dem weißen Meer.\nWie ich nun alles recht beschaut,\nDa wird mir’s rege im Gemüte,\nDaß alles nur ein Wort, ein Laut,\nO Gott, von deiner Lieb und Güte!\n\nDie Erd’ in Pracht\nHast du gemacht\nFür mich, dein ungetreues Kind,\nUnd den Azur\nDer Wolkenflur,\nFür mich den frischen Morgenwind.\nAch, alle Worte sind zu schwach,\nUm deine Liebe zu verkünden,\nUnd dennoch läßt mein Streben nach,\nUnd jeder Tag sieht mich in Sünden.\n\nHerr, steh mir bei,\nDer du aufs Neu\nMir einen jungen Tag verliehn;\nDer Geist ist wach,\nDas Fleisch ist schwach,\nUnd ohne Frucht ist mein Bemühn.\nDoch deine Hand ist stark und fest,\nWill ich nur willig sie umfassen;\nAch, wer nicht selber dich verläßt,\nDen hast du nimmermehr verlassen.\n\nO Herr, wenn oft\nUnd unverhofft\nMich kleine Kränkungen bedrohn,\nSei mein Gesicht\nZu dir gericht’,\nUnd mein Gedanke sei: dein Lohn!\nAch, manches Leiden groß und schwer\nGabst du mir Gnade zu besiegen,\nUnd vor der kleinen Sorgen Heer\nSollt’ meine Stärke unterliegen?\n\nHerr, mich befrei\nVon falscher Scheu,\nVon Hoffahrt und von Ungeduld,\nUnd all mein Sinn\nSich wende hin\nZu deinem Kreuz und meiner Schuld.\nWer diesen Tag mich schmäht und kränkt,\nDem laß mich gern und treu verzeihen,\nUnd ihn laß, eh die Nacht sich senkt,\nVor dir sein Unrecht still bereuen.\n\nZu deinem Preis,\nAuf dein Geheiß\nWill ich an meine Pflichten gehn;\nWie auch die Welt\nSie rings umstellt,\nIch will nur deinen Willen sehn.\nMein Wirken über Haus und Kind,\nDas ruht in deinen weisen Händen,\nWas sich mit deinem Preis beginnt,\nDas muß zu deinem Ruhme enden.",
+    "tags": [
+      "Morgengebet",
+      "Dankbarkeit",
+      "Neuanfang",
+      "Schuld",
+      "Lobpreis"
+    ],
+    "category": "Tageszeiten",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "128",
+    "title": "Ich trau' auf deine Hand",
+    "shortDescription": "Droste-Hülshoffs Gedicht des ruhigen Vertrauens in Gottes führende Hand, deren Güte und Liebe den Beter durch alle Umstände des Lebens wohlbehütet begleitet.",
+    "author": "Annette von Droste-Hülshoff",
+    "text": "Ich trau’ auf deine Hand,\nWeil alle deine Güte\nUnd Liebe mir bekannt,\nDaß sie mich wohl behüte,\nUnd daß ein sichrer Hort\nDas Übel von mir wende.\n\nDies sei mein letztes Wort.",
+    "tags": [
+      "Vertrauen",
+      "Geborgenheit",
+      "Angst",
+      "Hingabe"
+    ],
+    "category": "Gottvertrauen & Hingabe",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "129",
+    "title": "Ich bitte nicht um Glück der Erden",
+    "shortDescription": "Droste-Hülshoffs bescheidene Bitte, nicht um weltliches Glück, sondern nur um gelegentliche Lichtblicke, in denen Gottes Hände sichtbar werden und der Glaube gestärkt wird.",
+    "author": "Annette von Droste-Hülshoff",
+    "text": "Ich bitte nicht um Glück der Erden,\nNur um ein Leuchten nun und dann,\nDaß sichtbar deine Hände werden,\nIch deine Liebe ahnen kann;\nNur in des Lebens Kümmernissen\nUm der Ergebung Gnadengruß:\nDann wirst du schon am besten wissen,\nWieviel ich tragen kann und muß.",
+    "tags": [
+      "Leiden",
+      "Vertrauen",
+      "Hingabe",
+      "Schmerz",
+      "Stärke"
+    ],
+    "category": "Sehnsucht & Gottsuche",
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
+  {
+    "id": "130",
+    "title": "Ergebung",
+    "shortDescription": "Luise Hensels Gebet der Ergebung – Bitte um Vergebung für Tränen und Sehnsüchte, die nicht Gottes sind, und demütige Annahme des väterlichen Willens mit gebrochenem Herzen.",
+    "author": "Luise Hensel",
+    "text": "O , verzeihe meine Tränen,\nLindre meinen Schmerz\nUnd vergib das fremde Sehnen,\nGutes Vaterherz!\n\nAuch von dir kommt diese Stunde\nBanger Seelennot,\nAuch von dir die tiefe Wunde,\nLiebevoller Gott!\n\nUnd du weißt, was wir gelitten,\nDenn du gabst es mir,\nUnd du weißt, was ich gestritten,\nDenn ich stritt mit dir.\n\nGib aus deinem Erdenleben\nAlle Blumen mir,\nUnd ich will dir beßre geben,\nEwige, dafür.\n\nHerr! mein Ringen und mein Streben\nSei nach deinem Licht;\nWas du nehmen magst und geben,\nMurren will ich nicht.",
+    "tags": [
+      "Schmerz",
+      "Klage",
+      "Trauer",
+      "Hingabe",
+      "Stärke"
+    ],
+    "category": [
+      "Krisenzeiten",
+      "Gottvertrauen & Hingabe"
+    ],
+    "holiday": null,
+    "theology": null,
+    "estimatedMinutes": null,
+    "audio": {
+      "male": null,
+      "female": null
+    }
+  },
   {
     "id": "217",
     "title": "Gebet um göttliche Fülle und Vertrauen",
