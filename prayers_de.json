@@ -95,7 +95,7 @@
       "estimatedMinutes": 2,
       "audio": { "male": null, "female": null }
       },
-  {
+      {
     "id": "101",
     "title": "Wende dich, Herr, mein Gott",
     "shortDescription": "Salomos Tempelweihegebet aus dem Ersten Buch der Könige, in dem er Gott bittet, seine Augen offen zu halten über dem Haus, in dem sein Name wohnt. Ein königliches Flehen um Gottes Nähe und Erhörung.",
@@ -108,7 +108,7 @@
     "estimatedMinutes": null,
     "audio": { "male": null, "female": null }
   },
-  {
+      {
     "id": "102",
     "title": "Spät hab ich Dich geliebt",
     "shortDescription": "Augustinus' bewegtes Liebesbekenntnis aus den Konfessionen – ein Aufatmen über die Erkenntnis, dass Gott schon immer im Inneren war, während er Ihn draußen suchte. Klassisches Gebet der Umkehr und Gottessehnsucht.",
@@ -121,7 +121,7 @@
     "estimatedMinutes": null,
     "audio": { "male": null, "female": null }
   },
-  {
+      {
     "id": "103",
     "title": "Groß bist du, o Herr",
     "shortDescription": "Die Eröffnung der Confessiones des Augustinus, die Gottes unermessliche Größe preist und das Paradox des menschlichen Herzens besingt, das geschaffen ist, in Gott zur Ruhe zu kommen.",
@@ -134,7 +134,7 @@
     "estimatedMinutes": null,
     "audio": { "male": null, "female": null }
   },
-  {
+      {
     "id": "104",
     "title": "Herr, Gott der Wahrheit",
     "shortDescription": "Augustinus' Meditation über wahre Seligkeit: Nicht wissenschaftliches Wissen macht glücklich, sondern allein die Erkenntnis Gottes – wer Gott kennt, ist selig, auch wenn er sonst nichts weiß.",
@@ -147,7 +147,7 @@
     "estimatedMinutes": null,
     "audio": { "male": null, "female": null }
   },
-  {
+      {
     "id": "105",
     "title": "Keiner verliert dich",
     "shortDescription": "Augustinus beschreibt den dreifachen Weg zu Gott durch Glauben, Hoffnung und Liebe: Wer Gott verlässt, geht verloren; wer Ihn sucht, liebt Ihn; wer Ihn findet, besitzt Ihn.",
@@ -160,7 +160,7 @@
     "estimatedMinutes": null,
     "audio": { "male": null, "female": null }
   },
-    {
+      {
     "id": "106",
     "title": "Herr, mach mich zum Werkzeug deines Friedens",
     "shortDescription": "Das Franz von Assisi zugeschriebene Friedensgebet – ein Sendungsauftrag, Liebe, Verzeihung, Hoffnung und Licht in eine Welt von Hass, Streit und Dunkel zu tragen.",
@@ -185,7 +185,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "107",
     "title": "Gib mir, o Herr, ein wachsames Herz",
     "shortDescription": "Thomas von Aquins Gebet um ein wachsames, edles, aufrechtes, starkes und freies Herz, das sich durch nichts von Gott ablenken, erniedrigen oder auf Abwege führen lässt.",
@@ -206,7 +206,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "108",
     "title": "Mein Herr und mein Gott, nimm alles von mir",
     "shortDescription": "Das kurze, kraftvolle Gebet des Schweizer Nationalpatrons Niklaus von Flüe – ein dreifaches Loslassen und Empfangen: nimm, was hindert; gib, was fördert; nimm mich mir und gib mich ganz dir.",
@@ -227,7 +227,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "109",
     "title": "Nichts soll dich ängstigen",
     "shortDescription": "Teresas berühmtes Lesezeichen-Gedicht – ein knapper, kraftvoller Trost: Alles vergeht, Gott allein bleibt; wer Gott hat, dem fehlt nichts, auch wenn er allein ist.",
@@ -252,7 +252,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "110",
     "title": "Gebet des älter werdenden Menschen",
     "shortDescription": "Ein der Teresa von Ávila zugeschriebenes Gebet, das mit feinem Humor die Schwächen des Alterns benennt – besonders die Schwatzhaftigkeit – und Gott bittet, davor zu bewahren.",
@@ -273,7 +273,7 @@
       "female": null
     }
   },
-    {
+      {
     "id": "111",
     "title": "O Liebe, o Liebe!",
     "shortDescription": "Der mystische Liebesruf der Karmelitin Maria Magdalena von Pazzi, die eine Stimme erbittet, stark genug, um die göttliche Liebe der ganzen Welt unaufhörlich zu verkünden.",
@@ -294,7 +294,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "112",
     "title": "Führe mich, o Herr",
     "shortDescription": "Ein schlichtes Morgengebet des Barockkomponisten Heinrich Albert um Führung, Schutz und Begleitung durch den Tag nach Gottes Wort und Willen.",
@@ -318,7 +318,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "113",
     "title": "Zu wem soll ich rufen, Herr",
     "shortDescription": "Pascals leidenschaftliches Gebet der ausschließlichen Hinwendung zu Gott – alles, was nicht Gott ist, ist nichts und kann das Herz nicht füllen; nur in Ihm findet die Seele Ruhe.",
@@ -340,7 +340,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "114",
     "title": "Mein Gott, ich glaube fest",
     "shortDescription": "Ein Akt des Vertrauens und der Hingabe, der festen Glauben an Gottes Fürsorge für alle Hoffenden bekennt und den eigenen Willen bedingungslos dem göttlichen unterwirft.",
@@ -362,7 +362,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "115",
     "title": "Laß mich erkennen, wie vergänglich das Irdische",
     "shortDescription": "Papst Clemens XI. erbittet die Gnade, das Vergängliche als vergänglich und das Ewige als entscheidend zu erkennen – ein Gebet für richtige Prioritäten im kurzen Erdenleben.",
@@ -386,7 +386,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "116",
     "title": "Herr, ich weiß nicht, um was ich dich bitten soll",
     "shortDescription": "Fénelons Gebet völliger Übergabe – der Beter gesteht seine Unwissenheit darüber, was er braucht, und überlässt sich ganz der liebenden Fürsorge Gottes, der ihn besser kennt als er selbst.",
@@ -411,7 +411,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "117",
     "title": "Gott ist ein stiller Geist",
     "shortDescription": "Tersteegens Gedicht über Gott als stillen, allgegenwärtigen Geist, zu dem man sich nur in innerer Stille und Gelassenheit nahen kann – ohne Hast und ohne viele Worte.",
@@ -432,7 +432,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "118",
     "title": "Abendopfer",
     "shortDescription": "Tersteegens Abendgebet der Dankbarkeit und Hingabe, in dem das Herz sich am Ende des Tages still und dankbar dem holden Angesicht Gottes zuwendet.",
@@ -454,7 +454,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "119",
     "title": "Gelassenheitsgebet",
     "shortDescription": "Das klassische Gelassenheitsgebet – Bitte um Gelassenheit für das Unveränderliche, Mut für das Veränderliche und Weisheit, beides zu unterscheiden.",
@@ -479,7 +479,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "120",
     "title": "Gib mir, o Herr, ein kindlich Herz",
     "shortDescription": "Sailers Bitte um verschiedene Herzenshaltungen: kindlich im Glauben, mütterlich in der Liebe, männlich in der Geduld im Leiden, brüderlich im Dienst am Nächsten.",
@@ -501,7 +501,7 @@
       "female": null
     }
   },
-    {
+      {
     "id": "121",
     "title": "Mein Vater, der mich nährt und schützt",
     "shortDescription": "Seumes demütiges Gebet eines Menschen, der weiß, wie wenig er selbst weiß, und der deshalb alle Bitten und Wünsche dem väterlichen Ermessen Gottes überlässt.",
@@ -523,7 +523,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "122",
     "title": "Wenn ich betet' über meinem Kinde",
     "shortDescription": "Rückerts zartes Gedicht über das Gebet eines Elternteils für sein Kind, in dem eine innere Stimme antwortet: Gib das Kind zurück an Gott – Er sorgt besser dafür als du.",
@@ -545,7 +545,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "123",
     "title": "Morgengebet",
     "shortDescription": "Eichendorffs Morgengedicht – die stille, feierliche Schönheit des frühen Morgens als Einladung, den neuen Tag singend und dankend Gott anzuvertrauen.",
@@ -570,7 +570,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "124",
     "title": "Was ich wollte, liegt zerschlagen",
     "shortDescription": "Eichendorffs Gebet des Loslassens nach dem Scheitern eigener Pläne – das Herz gibt das Klagen auf und wird still, indem es alles in Gottes Hände legt.",
@@ -595,7 +595,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "125",
     "title": "Mittag",
     "shortDescription": "Eichendorffs Mittagsgebet – inmitten von Staub und Sündenverstrickung des Alltags die Bitte, dass Gott sein Zeichen zeige und den schwankenden Beter neu führe.",
@@ -617,7 +617,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "126",
     "title": "Wie könnt ich ruhig schlafen",
     "shortDescription": "Ein Nachtgebet der Agnes Franz, in dem der Beter bekennt, ohne das Gedenken an Gott den Vater nicht in Frieden schlafen zu können – und das Vertrauen aus Kindheitstagen erneuert.",
@@ -638,7 +638,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "127",
     "title": "Morgenlied",
     "shortDescription": "Droste-Hülshoffs Morgengedicht, das mit dem aufgehenden Licht, dem Morgentau und dem erwachenden Leben den neuen Tag als Geschenk und Aufgabe Gottes begrüßt.",
@@ -660,7 +660,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "128",
     "title": "Ich trau' auf deine Hand",
     "shortDescription": "Droste-Hülshoffs Gedicht des ruhigen Vertrauens in Gottes führende Hand, deren Güte und Liebe den Beter durch alle Umstände des Lebens wohlbehütet begleitet.",
@@ -681,7 +681,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "129",
     "title": "Ich bitte nicht um Glück der Erden",
     "shortDescription": "Droste-Hülshoffs bescheidene Bitte, nicht um weltliches Glück, sondern nur um gelegentliche Lichtblicke, in denen Gottes Hände sichtbar werden und der Glaube gestärkt wird.",
@@ -703,7 +703,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "130",
     "title": "Ergebung",
     "shortDescription": "Luise Hensels Gebet der Ergebung – Bitte um Vergebung für Tränen und Sehnsüchte, die nicht Gottes sind, und demütige Annahme des väterlichen Willens mit gebrochenem Herzen.",
@@ -728,7 +728,7 @@
       "female": null
     }
   },
-    {
+      {
     "id": "131",
     "title": "In schwerer Krankheit",
     "shortDescription": "Hensels Klagegebet aus dunkler, langer Nacht schwerer Krankheit – das müde, kranke Herz hält sich einzig an Gott als fernem, aber sicherem Stern.",
@@ -750,7 +750,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "132",
     "title": "Du bist das Licht, das nie verlöscht",
     "shortDescription": "Newmans Lobpreis Gottes als unerlöschendes Licht und ewige Flamme, in dessen Glanz der Beter bleiben möchte, um von seiner Wärme und seinem Leuchten durchdrungen zu werden.",
@@ -775,7 +775,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "133",
     "title": "Herr, ich lege mich ganz in Deine Hände",
     "shortDescription": "Newmans Gebet vollständiger Übergabe – der Beter legt sich ganz in Gottes Hände und findet darin nicht Verlust, sondern Heimat: Gott hat ihn erschaffen und ist bei ihm.",
@@ -797,7 +797,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "134",
     "title": "Laß mich, o Gott, niemals die Wahrheit vergessen",
     "shortDescription": "Newmans Bitte, nie zu vergessen, dass Gott sein einziges wahres Leben ist – alles andere ist Schatten und täuschender Schein, nur Gott ist unveränderliche Wirklichkeit.",
@@ -819,7 +819,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "135",
     "title": "Herr! schicke, was du willst",
     "shortDescription": "Mörickes stilles Gebet der gelassenen Bereitschaft, Liebes wie Leides gleichermaßen anzunehmen, weil beides aus Gottes Händen kommt und sein Sinn darin verborgen ist.",
@@ -841,7 +841,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "136",
     "title": "Zum neuen Jahr",
     "shortDescription": "Mörickes Gedicht zum Jahresanfang – der neue Morgen naht leise wie ein Engelein mit rosigen Füßen, und der Beter begrüßt ihn mit Jubel und stillem Gottvertrauen.",
@@ -866,7 +866,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "137",
     "title": "Sei du mit mir",
     "shortDescription": "Geibels Gebet, Gott als beständigen Begleiter in Glück und Not, als Trost im Klagen und als Licht in dunklen Stunden des Lebens stets bei sich zu haben.",
@@ -888,7 +888,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "138",
     "title": "Bleibe bei uns, Herr",
     "shortDescription": "Dieffenbachs Abendgebet im Geist der Emmaus-Jünger (Lk 24,29) – die Bitte an den Herrn, beim Einbrechen des Abends zu bleiben, Licht zu schenken und Begleiter zu sein.",
@@ -913,7 +913,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "139",
     "title": "O Friede, der nun alles füllet",
     "shortDescription": "Morgensterns Abendgebet für den Frieden, der alles erfüllt – die Bitte, dass dieser Friede auch in das eigene Herz einziehe und bis zum Aufgang eines neuen Tages bleibe.",
@@ -935,7 +935,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "140",
     "title": "In allen meinen Taten",
     "shortDescription": "Flemings Vertrauensgedicht, in dem der Beter in allen Lebenslagen Gott als den anerkennt, der allein alles kann und hat und daher in allem raten und helfen möge.",
@@ -957,7 +957,7 @@
       "female": null
     }
   },
-     {
+      {
     "id": "149",
     "title": "Wenn alle untreu werden",
     "shortDescription": "Novalis' Gedicht unbedingter Treue zu Gott, auch wenn alle anderen untreu werden – ein Bekenntnis der Dankbarkeit, die auf Erden nicht aussterben soll.",
@@ -979,7 +979,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "150",
     "title": "Der Du erschufst die Welt",
     "shortDescription": "Rückerts Schöpfungsgebet an den Gott, der die Welt aus Liebe erschuf und nach dem Entwurf seiner Liebe gestaltete – Antwort der Kreatur mit Dank und Gegenliebe.",
@@ -1001,73 +1001,7 @@
       "female": null
     }
   },
-  {
-    "id": "151",
-    "title": "Abendgedichte (5 Gedichte)",
-    "shortDescription": "Eine Sammlung von fünf Abendgedichten Eichendorffs, die das Versinken des Tages in stille Nacht als Gleichnis der Seele betrachten, die am Abend heimfindet zu Gott.",
-    "author": "Joseph von Eichendorff",
-    "text": "Das Leben draußen ist verrauschet,\nDie Lichter löschen aus,\nSchauernd mein Herz am Fenster lauschet\nStill in die Nacht hinaus.\n\nDa nun der laute Tag zerronnen\nMit seiner Not und bunten Lust,\nWas hast du in dem Spiel gewonnen,\nWas blieb der müden Brust? —\n\nDer Mond ist trostreich aufgegangen,\nDa unterging die Welt,\nDer Sterne heil’ge Bilder prangen\nSo einsam hoch gestellt!\n\nO Herr! auf dunkelschwankem Meere\nFahr’ ich im schwachen Boot,\nTreu folgend deinem goldnen Heere\nZum ew’gen Morgenrot.\n\nGott, inbrünstig möcht ich beten,\nDoch der Erde Bilder treten\nImmer zwischen dich und mich,\nUnd die Seele muß mit Grauen\nWie in einen Abgrund schauen,\nStrenger Gott, ich fürchte dich!\n\nAch, so brich auch meine Ketten!\nAlle Menschen zu erretten,\nGingst du ja in bittern Tod.\nIrrend an der Hölle Toren,\nAch, wie bald bin ich verloren,\nHilfst du nicht in meiner Not!\n\nSo laß herein nun brechen\nDie Brandung, wie sie will,\nDu darfst ein Wort nur sprechen,\nSo wird der Abgrund still;\nUnd bricht die letzte Brücke,\nZu Dir, der treulich steht,\nHebt über Not und Glücke\nMich einsam das Gebet.\n\nDie ein todeswunder Streiter,\nDer den Weg verloren hat,\nSchwank ich nun und kann nicht weiter,\nVon dem Leben sterbensmatt.\nNacht schon decket alle Müden\nUnd so still ist’s um mich her,\nHerr, auch mir gib endlich Frieden,\nDenn ich wünsch und hoff nichts mehr.\n\nEs wandelt, was wir schauen,\nTag sinkt ins Abendrot,\nDie Lust hat eignes Grauen,\nUnd alles hat den Tod.\nIns Leben schleicht das Leiden\nSich heimlich wie ein Dieb,\nWir alle müssen scheiden\nVon allem, was uns lieb.\nWas gäb’ es doch auf Erden,\nWer hielt’ den Jammer aus,\nWer möcht’ geboren werden,\nHieltst Du nicht droben Haus!\nDu bist’s, der, was wir bauen,\nMild über uns zerbricht,\nDaß wir den Himmel schauen —\nDarum so klag’ ich nicht.",
-    "tags": [
-      "Einsamkeit",
-      "Abend",
-      "Sehnsucht",
-      "Klage",
-      "Erschöpfung"
-    ],
-    "category": "Tageszeiten",
-    "holiday": null,
-    "theology": null,
-    "estimatedMinutes": null,
-    "audio": {
-      "male": null,
-      "female": null
-    }
-  },
-  {
-    "id": "152",
-    "title": "Am vierten Sonntage nach Ostern",
-    "shortDescription": "Droste-Hülshoffs ehrliches Gebetsgedicht über innere Erstarrung und Abstand von Gott – ein Ringen um Glauben trotz des Gefühls, kein Gnadenlicht mehr zu empfangen.",
-    "author": "Annette von Droste-Hülshoff",
-    "text": "Nicht eine Gnadenflamme hehr\nVor deinem Volke soll ich gehn;\nNein, ein versteinert Leben schwer\nWie Sodoms Säule muß ich stehn\nUnd um mich her\nDie Irren träumend schwanken sehn.\nUnd ob auch Öde mich umgibt,\nOb mich erstickt der Nebel fast,\nMir Wirbelsand die Augen trübt,\nDoch weiß ich, daß mein Sinn dich faßt,\nDaß er dich liebt,\nUnd daß du mich gesendet hast.\nDen Lebenshauch halt ich von dir,\nUnsterblich hast du mich gemacht;\nNicht Glut, nicht Dürre schadet mir.\nIch weiß, ich bin in deiner Wacht,\nUnd muß ich hier\nAuch stehn wie ein Prophet der Nacht.\n\nIch hebe meine Stimme laut\nEin Wüstenherold für die Not:\n„Wacht auf, ihr Träumer, aufgeschaut!\nAm Himmel steigt das Morgenrot.\nNur aufgeschaut!\nNur nicht zurück, dort steht der Tod!\nNur aufgeschaut, nur nicht zurück!\nLaßt Menschenweisheit hinter euch!\nSie ist der Tod;\nihr schnödes Glück\nIst übertünchtem Grabe gleich.\nO hebt den Blick!\nDer Himmel ist so mild und reich.“\n\nKönnt ich mein Auge heben nur,\nMein steinern Auge zu dem Blau:\nWie sög’ ich aus der Himmelsflur\nSo liebekrank den milden Tau!\nDoch hat Natur\nUnd Schuld verschlossen mir die Brau.\nOb nimmer sich die Rinde hebt?\nAch einmal, einmal muß es sein!\nWenn Sodoms Säule sich belebt,\nDann bricht auch meine Stunde ein,\nWenn es durchbebt\nDen armen blutberaubten Stein.\nDann soll ich wissen, was ich bin,\nWarum so todesstarr und matt;\nDann weiß ich, was den klaren Sinn\nGetrieben zu der öden Statt;\nDann knie ich hin\nVor dem, der mich gesendet hat.",
-    "tags": [
-      "Sendung",
-      "Zweifel",
-      "Einsamkeit",
-      "Stärke",
-      "Mut"
-    ],
-    "category": "Schuld & Vergebung",
-    "holiday": null,
-    "theology": null,
-    "estimatedMinutes": null,
-    "audio": {
-      "male": null,
-      "female": null
-    }
-  },
-  {
-    "id": "153",
-    "title": "Stilles Gotteslob",
-    "shortDescription": "Hensels stilles Lob, das sich Engelzungen wünscht, um das süße innere Lied von Gottes Güte in alle Welt zu singen – ein Lied, das zu still und zart ist für menschliche Worte.",
-    "author": "Luise Hensel",
-    "text": "Ach hätt’ ich Engelzungen,\nIch hätt’ euch wohl gesungen\nDas süße, liebe Lied,\nDas mir so still und selig im jungen Herzen glüht.\n\nIch weiß gar keine Weisen,\nDen Herren so zu preisen,\nDen Vater treu und mild,\nWie meine ganze Seele\nIhm singt und jauchzt und spielt.\n\nIch muß mein Haupt ihm neigen,\nKann weinen nur und schweigen\nIn Seligkeit und Schmerz.\nAch, Kind, er weiß dein Lieben,\nEr sieht dir ja ins Herz.",
-    "tags": [
-      "Lobpreis",
-      "Demut",
-      "Stille",
-      "Liebe",
-      "Anbetung"
-    ],
-    "category": "Lob & Preis",
-    "holiday": null,
-    "theology": null,
-    "estimatedMinutes": null,
-    "audio": {
-      "male": null,
-      "female": null
-    }
-  },
-  {
+      {
     "id": "154",
     "title": "Sursum Corda!",
     "shortDescription": "Hensels Ermutigung, das Herz über irdische Sorgen zu erheben: Nur kurz dauert das Leiden hienieden – dann kommt die ewige Freude, auf die alles Hoffen zielt.",
@@ -1089,7 +1023,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "155",
     "title": "Wir sind des Herrn",
     "shortDescription": "Spittas Glaubensbekenntnis, dass wir dem Herrn gehören – im Leben und im Sterben, in Seligkeit und Leiden – als dem, der einst für alle gestorben ist.",
@@ -1114,161 +1048,7 @@
       "female": null
     }
   },
-  {
-    "id": "156",
-    "title": "Bekenntnis",
-    "shortDescription": "Fontanes ehrliches Gebet eines zweifelnden Menschen, der seine innere Wankelmütigkeit und Unbeständigkeit bekennt und trotzdem zu Gott als dem einzigen Halt greift.",
-    "author": "Theodor Fontane",
-    "text": "Ich bin ein unglückselig Rohr:\nGefühle und Gedanken\nSeh’ rechts und links, zurück und vor,\nIn jedem Wind ich schwanken.\n\nDa liegt nichts zwischen Sein und Tod,\nWas ich nicht schon erflehte:\nHeut bitt’ ich um des Glaubens Brot,\nDaß morgen ich’s zertrete;\nBald ist’s im Herzen kirchenstill,\nBald schäumt’s wie Saft der Reben,\nIch weiß nicht, was ich soll und will —\nEs ist ein kläglich Leben!\n\nDich ruf’ ich, der das Kleinste Du\nIn deinen Schutz genommen,\nGönn meinem Herzen Halt und Ruh,\nGott, laß mich nicht verkommen;\nLeih mir die Kraft, die mir gebricht,\nNimm weg, was mich verwirret,\nSonst lösch es aus, dies Flackerlicht,\nDas über Sümpfe irret!",
-    "tags": [
-      "Zweifel",
-      "Scheitern",
-      "Glaubenskrise",
-      "Verzweiflung",
-      "Stärke"
-    ],
-    "category": "Schuld & Vergebung",
-    "holiday": null,
-    "theology": null,
-    "estimatedMinutes": null,
-    "audio": {
-      "male": null,
-      "female": null
-    }
-  },
-  {
-    "id": "157",
-    "title": "Ich fühl in mir den Drang nach dir",
-    "shortDescription": "Der norwegische Nobelpreisträger Bjørnson drückt ein tiefes Verlangen nach Gott als der Harmonie im All aus – ein lyrisches Sehnen nach dem Ursprung aller Einheit.",
-    "author": "Bjørnstjerne Bjørnson",
-    "text": "Ich fühl in mir\nDen Drang nach dir,\nDu Harmonie im All entfaltet!\nBin ich verbannt?\nHast du erkannt,\nDaß sich mein Eigen schlecht verwaltet?\n\nDenn ohne Kraft,\nBald feig erschlafft,\nBald in Verzweiflung sieh mich beten,\nDaß Trost und Gnad’\nEin Ruf, ein Rat\nMich aufhebt, wo du mich zertreten.\n\nGott, hör mein Wort!\nStoß mich nicht fort\nVon Hoffen auf mein Ziel und Streben!\nMein Stern lischt aus;\nVon mächtigem Graus\nSind meine Schritte nun umgeben.\n\nIm öden Sinn\nWogt her und hin\nEin Schwarm von schreckensvollen Geistern\nIhr, oft verjagt,\nWas wollt ihr, sagt?\nNur heut kann ich sie nicht bemeistern.\n\nAch, Friede, komm!\nLaß glaubensfromm\nDes Lebens starkes Band mich tragen!\nLaß nicht nach dir\nVergebens hier\nMich zweifelnd suchen, rufen, fragen!",
-    "tags": [
-      "Verzweiflung",
-      "Krise",
-      "Einsamkeit",
-      "Klage",
-      "Stärke"
-    ],
-    "category": "Sehnsucht & Gottsuche",
-    "holiday": null,
-    "theology": null,
-    "estimatedMinutes": null,
-    "audio": {
-      "male": null,
-      "female": null
-    }
-  },
-  {
-    "id": "158",
-    "title": "Herbst / Werkleute",
-    "shortDescription": "Zwei Rilke-Gedichte: 'Herbst' meditiert über das universale Fallen als kosmische Bewegung in Gottes Hand; 'Werkleute' beschreibt die Hände, die sich im Schaffen Gott entgegenrecken.",
-    "author": "Rainer Maria Rilke",
-    "text": "Die Blätter fallen,\nfallen wie von weit,\nals welkten in den Himmeln ferne Gärten;\nsie fallen mit verneinender Gebärde.\n\nUnd in den Nächten fällt die schwere Erde\naus allen Sternen in die Einsamkeit.\n\nWir alle fallen.\nDiese Hand da fällt.\nUnd sieh dir andre an: es ist in allen.\nUnd doch ist Einer, welcher dieses Fallen\nunendlich sanft in seinen Händen hält.\n\nWerkleute sind wir: Knappen, Jünger, Meister,\nund bauen dich, du hohes Mittelschiff.\nUnd manchmal kommt ein ernster Hergereister,\ngeht wie ein Glanz durch unsre hundert Geister\nund zeigt uns zitternd einen neuen Griff.\n\nWir steigen in die wiegenden Gerüste,\nin unsern Händen hängt der Hammer schwer,\nbis eine Stunde uns die Stirnen küßte,\ndie strahlend und als ob sie alles wüßte\nvon dir kommt, wie der Wind vom Meer.\n\nDann ist ein Hallen von dem vielen Hämmern\nund durch die Berge geht es Stoß um Stoß.\nErst wenn es dunkelt lassen wir dich los:\nUnd deine kommenden Konturen dämmern.\nGott, du bist groß.",
-    "tags": [
-      "Vergänglichkeit",
-      "Vertrauen",
-      "Kontemplation",
-      "Demut",
-      "Trauer"
-    ],
-    "category": "Gottvertrauen & Hingabe",
-    "holiday": null,
-    "theology": null,
-    "estimatedMinutes": null,
-    "audio": {
-      "male": null,
-      "female": null
-    }
-  },
-  {
-    "id": "159",
-    "title": "Mit deiner Seele hat sich meine gemischt",
-    "shortDescription": "Rumis mystisches Gedicht von der untrennbaren Vermischung der menschlichen Seele mit der göttlichen – wie Wasser und Wein können sie nicht mehr getrennt werden.",
-    "author": "Dschelaleddin Rumi",
-    "text": "Mit deiner Seele hat sich meine\nGemischt, wie Wasser mit dem Weine.\n\nWer kann den Wein vom Wasser trennen,\nWer dich und mich aus dem Vereine?\n\nDu bist mein großes Ich geworden,\nUnd nie mehr will ich sein dies kleine.\n\nDu hast mein Wesen angenommen,\nSollt’ ich nicht nehmen an das deine?\n\nAuf ewig hast du mich bejahet,\nDaß ich dich ewig nie verneine.\n\nDein Liebesduft der mich durchdrungen,\nGeht nie aus meinem Mark und Beine.\n\nIch ruh’ als Flöt’ an deinem Munde,\nAls Laut’ in deinem Schoß allein.\n\nGib einen Hauch mir, daß ich seufze,\nGib einen Schlag mir, daß ich weine.\n\nSüß ist mein Weinen und mein Seufzen,\nDaß ich der Welt zu jauchzen scheine.\n\nDu ruhst in meiner Seele Tiefen\nMit deines Himmels Widerscheine.",
-    "tags": [
-      "Hingabe",
-      "Liebe",
-      "Mystik",
-      "Sehnsucht",
-      "Anbetung"
-    ],
-    "category": "Sehnsucht & Gottsuche",
-    "holiday": null,
-    "theology": null,
-    "estimatedMinutes": null,
-    "audio": {
-      "male": null,
-      "female": null
-    }
-  },
-  {
-    "id": "160",
-    "title": "Sehnsucht",
-    "shortDescription": "Goethes Gedicht brennender Sehnsucht und Tränen der Longing nach dem Transzendenten – das Herz, das mit unsäglicher Pein nach dem Göttlichen drängt.",
-    "author": "Johann Wolfgang von Goethe",
-    "text": "Dies wird die letzte Trän’ nicht sein,\nDie glühend Herz aufquillet,\nDas mit unsäglich neuer Pein sich schmerzvermehrend stillet.\n\nOh! laß doch immer hier und dort\nMich ewig Liebe fühlen,\nUnd möcht’ der Schmerz auch also fort\nDurch Nerv’ und Ader wühlen.\n\nKönnt’ ich doch ausgefüllt einmal\nVon dir, o Ew’ger, werden —\nAch, diese lange, tiefe Qual,\nWie dauert sie auf Erden!",
-    "tags": [
-      "Sehnsucht",
-      "Schmerz",
-      "Verlangen",
-      "Klage",
-      "Mystik"
-    ],
-    "category": "Sehnsucht & Gottsuche",
-    "holiday": null,
-    "theology": null,
-    "estimatedMinutes": null,
-    "audio": {
-      "male": null,
-      "female": null
-    }
-  },
-  {
-    "id": "161",
-    "title": "Als mein Gebet immer andächtiger wurde",
-    "shortDescription": "Kierkegaards Reflexion darüber, wie tiefes Beten immer stiller wird: Zuletzt schweigt der Mensch, und Gott allein spricht – Gebet als Weg vom Reden zum Lauschen.",
-    "author": "Sören Kierkegaard",
-    "text": "Als mein Gebet immer andächtiger und innerlicher wurde,\nda hatte ich immer weniger zu sagen.\nZuletzt wurde ich ganz still.\n\nIch wurde,\nwas womöglich noch ein größerer Gegensatz zum Reden ist,\nich wurde ein Hörer.\n\nIch meinte erst, Beten sei Reden.\nIch lernte aber,\ndaß Beten nicht bloß Schweigen ist,\nsondern hören.\n\nSo ist es:\nBeten heißt nicht, sich selbst reden hören.\nBeten heißt:\nStill werden und still sein und warten,\nbis der Betende Gott hört.",
-    "tags": [
-      "Stille",
-      "Kontemplation",
-      "Sehnsucht",
-      "Hingabe",
-      "Vertiefung"
-    ],
-    "category": "Sehnsucht & Gottsuche",
-    "holiday": null,
-    "theology": null,
-    "estimatedMinutes": null,
-    "audio": {
-      "male": null,
-      "female": null
-    }
-  },
-  {
-    "id": "162",
-    "title": "Gebet an den unbekannten Gott",
-    "shortDescription": "Nietzsches frühes Gebet an einen unbekannten Gott – noch vor seiner späteren Abwendung drückt er hier eine tiefe Sehnsucht und Hingabe an eine jenseitige Macht aus.",
-    "author": "Friedrich Nietzsche",
-    "text": "Noch einmal, eh’ ich weiterziehe\nUnd meine Blicke vorwärts sende,\nHeb’ ich vereinsamt meine Hände\nZu dir empor, zu dem ich fliehe,\nDem ich in tiefster Herzenstiefe\nAltäre feierlich geweiht, daß allezeit\nMich deine Stimme wieder riefe.\n\nDarauf erglüht tief eingeschrieben\nDas Wort: Dem unbekannten Gotte.\nSein bin ich, ob ich in der Frevler Rotte\nAuch bis zur Stunde bin geblieben;\nSein bin ich — und ich fühl’ die Schlingen,\nDie mich im Kampf darniederziehn\nUnd, mag ich fliehn,\nMich doch zu seinem Dienste zwingen.\n\nIch will dich kennen, Unbekannter,\nDu tief in meine Seele Greifender,\nMein Leben wie ein Sturm Durchschweifender,\nDu Unfaßbarer, mir Verwandter!\nIch will dich kennen, selbst dir dienen.",
-    "tags": [
-      "Sehnsucht",
-      "Suche",
-      "Einsamkeit",
-      "Zweifel",
-      "Mut"
-    ],
-    "category": "Sehnsucht & Gottsuche",
-    "holiday": null,
-    "theology": null,
-    "estimatedMinutes": null,
-    "audio": {
-      "male": null,
-      "female": null
-    }
-  },
-  {
+      {
     "id": "163",
     "title": "Akt der Liebe",
     "shortDescription": "Klassischer katholischer Liebesakt – Bekenntnis der Liebe zu Gott über alle Dinge und zum Nächsten um Gottes willen, weil Gott das höchste Gut und vollkommene Liebe ist.",
@@ -1292,7 +1072,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "164",
     "title": "Akt der Reue",
     "shortDescription": "Traditioneller katholischer Reuakt – von ganzem Herzen bereute Sünden aus Liebe zu Gott als dem unendlichen Gut, das durch sie beleidigt und verlassen wurde.",
@@ -1317,7 +1097,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "165",
     "title": "Akt der Weihe an das Unbefleckte Herz Mariens",
     "shortDescription": "Weihegebet an das Unbefleckte Herz Mariens, in dem sich der Betende der Fürsprache und dem mütterlichen Schutz Mariens in der Not anvertraut.",
@@ -1339,7 +1119,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "166",
     "title": "Benediktus",
     "shortDescription": "Der Lobgesang des Zacharias (Lk 1,68-79), der Gottes Treue preist: Er hat sein Volk besucht, Erlösung geschaffen und den Aufgang des Lichts aus der Höhe gesandt.",
@@ -1364,29 +1144,7 @@
       "female": null
     }
   },
-  {
-    "id": "167",
-    "title": "Nizänisches Glaubensbekenntnis",
-    "shortDescription": "Das auf dem Konzil von Nizäa (325) formulierte erweiterte Glaubensbekenntnis, das die Trinität und die Menschwerdung Christi theologisch präzise bekennt.",
-    "author": null,
-    "text": "Wir glauben an den einen Gott, den Vater, den Allmächtigen,\nder alles geschaffen hat, Himmel und Erde,\ndie sichtbare und die unsichtbare Welt.\n\nUnd an den einen Herrn Jesus Christus, Gottes eingeborenen Sohn,\naus dem Vater geboren vor aller Zeit:\nGott von Gott, Licht vom Licht, wahrer Gott vom wahren Gott,\ngezeugt, nicht geschaffen, eines Wesens mit dem Vater;\ndurch ihn ist alles geschaffen.\nFür uns Menschen und zu unserm Heil ist er vom Himmel gekommen,\nhat Fleisch angenommen durch den Heiligen Geist von der Jungfrau Maria\nund ist Mensch geworden.\nEr wurde für uns gekreuzigt unter Pontius Pilatus,\nhat gelitten und ist begraben worden,\nist am dritten Tage auferstanden nach der Schrift\nund aufgefahren in den Himmel.\nEr sitzt zur Rechten des Vaters\nund wird wiederkommen in Herrlichkeit,\nzu richten die Lebenden und die Toten;\nseiner Herrschaft wird kein Ende sein.\n\nWir glauben an den Heiligen Geist, der Herr ist und lebendig macht,\nder aus dem Vater und dem Sohn hervorgeht,\nder mit dem Vater und dem Sohn angebetet und verherrlicht wird,\nder gesprochen hat durch die Propheten,\nund die eine, heilige, christliche und apostolische Kirche.\nWir bekennen die eine Taufe zur Vergebung der Sünden.\nWir erwarten die Auferstehung der Toten\nund das Leben der kommenden Welt.\n\nAmen.",
-    "tags": [
-      "Bekenntnis",
-      "Glaubensstärkung",
-      "Vertrauen",
-      "Liturgie",
-      "Demut"
-    ],
-    "category": "Klassiker",
-    "holiday": null,
-    "theology": null,
-    "estimatedMinutes": null,
-    "audio": {
-      "male": null,
-      "female": null
-    }
-  },
-  {
+      {
     "id": "168",
     "title": "Der Engel des Herrn",
     "shortDescription": "Das dreimal täglich gebetete marianische Gebet (Angelus), das die Verkündigung des Herrn durch den Erzengel Gabriel meditiert und mit dem Ave Maria verbindet.",
@@ -1410,7 +1168,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "169",
     "title": "Ehre sei dem Vater",
     "shortDescription": "Die kurze trinitarische Doxologie, die Gott Vater, Sohn und Heiligem Geist Ehre erweist – wie im Anfang, so auch jetzt und alle Zeit – häufigster Lobpreis in der Liturgie.",
@@ -1434,7 +1192,7 @@
       "female": null
     }
   },
-    {
+      {
     "id": "170",
     "title": "Engel Gottes",
     "shortDescription": "Das klassische Schutzengel-Gebet, das den persönlichen Schutzengel als von Gott gesandten Begleiter anruft – um Erleuchtung, Schutz, Leitung und Führung.",
@@ -1459,7 +1217,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "172",
     "title": "Gebet zum heiligen Josef",
     "shortDescription": "Gebet zum heiligen Josef als Beschützer des Erlösers und Bräutigam Mariens – Bitte um seinen Schutz, seine Fürsprache und sein Vorbild als Vater und treuer Diener.",
@@ -1481,7 +1239,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "173",
     "title": "Gebet zur Heiligen Familie",
     "shortDescription": "Gebet zur Heiligen Familie als Vorbild wahrer Liebe – Bitte, von Jesus, Maria und Josef zu lernen, die Wahrheit zu lieben und das Gute mit Freude zu tun.",
@@ -1503,7 +1261,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "174",
     "title": "Heiliger Erzengel Michael",
     "shortDescription": "Das Gebet um den Schutz des Erzengels Michael im geistlichen Kampf gegen das Böse – entstanden aus einer Vision Papst Leos XIII., als klassisches Gebet nach der Messe gebetet.",
@@ -1525,7 +1283,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "175",
     "title": "Herr, gib ihnen die ewige Ruhe",
     "shortDescription": "Das klassische Totengebet – Bitte um ewige Ruhe und ewiges Licht für die Verstorbenen, die in Gottes Frieden ruhen mögen.",
@@ -1546,7 +1304,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "176",
     "title": "Komm, Heiliger Geist",
     "shortDescription": "Anrufung des Heiligen Geistes als Schöpfer, Tröster und Erleuchter, der das Herz erfüllt, die Schwachen stärkt, die Irrtümer vertreibt und die Herzen mit Liebesflamme entzündet.",
@@ -1571,7 +1329,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "177",
     "title": "Magnifikat",
     "shortDescription": "Der Lobgesang Marias (Lk 1,46-55) – Jubel über Gottes Größe, der die Niedrigen erhöht, die Hungrigen sättigt und seiner Treue zu den Vätern treu bleibt.",
@@ -1596,7 +1354,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "178",
     "title": "Seele Christi",
     "shortDescription": "Das ignatianische Anima-Christi-Gebet der Beziehung zu Christus in all seinen Dimensionen – Seele, Leib, Blut, Wasser der Seite, Leiden, Wunden und ewige Gnade.",
@@ -1618,7 +1376,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "179",
     "title": "Unter deinen Schutz",
     "shortDescription": "Das älteste bekannte Mariengebet aus dem 3. Jahrhundert – ein kurzer, flehender Ruf zu Maria als heiliger Gottesgebärerin um ihren Schutz und Beistand in der Not.",
@@ -1640,7 +1398,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "180",
     "title": "",
     "shortDescription": "Der Invitatoriums-Ruf aus dem Stundengebet, der das tägliche Beten eröffnet – Bitte an Gott, die Lippen zu öffnen, damit der Mund sein Lob verkünden kann.",
@@ -1664,7 +1422,7 @@
       "female": null
     }
   },
-  {
+      {
     "id": "217",
     "title": "Gebet um göttliche Fülle und Vertrauen",
     "shortDescription": null,
@@ -1690,7 +1448,7 @@
     "estimatedMinutes": null,
     "audio": { "male": null, "female": null }
   },
-     {
+      {
     "id": "219",
     "title": "Gebet um göttliche Versorgung",
     "shortDescription": "Ein Gebet an den Himmlischen Vater, das Dank für empfangene Segnungen ausdrückt und um göttliche Fülle in Finanzen, Gesundheit und Beziehungen bittet. Es fleht um die Entfernung von Hindernissen, um Weisheit und ein großzügiges Herz, um den empfangenen Überfluss zu teilen und auf Gottes Führung zu vertrauen.",
