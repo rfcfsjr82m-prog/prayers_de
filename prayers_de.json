@@ -2019,6 +2019,32 @@
     "theology": null,
     "estimatedMinutes": null,
     "audio": { "male": null, "female": null }
-  }
+  },
+    {
+  "id": "184",
+  "title": "Gebetsmuster aus Ehrlichkeit, Annahme und Bereitschaft",
+  "shortDescription": "Ein dreischrittiges Gebetsschema: Ehrlichkeit über das, was man vor Gott trägt; Annahme von Gottes Gegenwart darin; und Bereitschaft, sein Geschenk zu empfangen.",
+  "author": null,
+  "text": "Beginne damit, ruhig zu werden.\nAtme langsam ein und aus.\nWerde dir bewusst, dass du jetzt vor Gott da bist.\nDu musst nichts leisten. Du darfst einfach kommen.\n\nGott, hier bin ich.\nIch muss nichts ordnen, bevor ich zu Dir komme.\nIch darf sagen, was schwer ist, was mich beschäftigt, was mich freut, was mich beschämt und was ich selbst noch nicht verstehe.\n\nGott, komm mir entgegen in dem, was ich jetzt brauche.\nGib mir den nächsten Schritt, nicht den ganzen Weg auf einmal.\n\nGott, ich lasse vor Dir liegen, was ich nicht festhalten kann.\nIch darf warten, hoffen und weitergehen.\n\nGott, was ich gesagt habe, liegt nun vor Dir.\nBewahre mich in Deinem Frieden und führe mich durch diesen Tag.\n\nAmen.",
+  "tags": ["Ehrlichkeit", "Hingabe", "Tägliches Gebet", "Vertrauen"],
+  "category": "Gebetsmuster",
+  "holiday": null,
+  "theology": null,
+  "estimatedMinutes": null,
+  "audio": { "male": null, "female": null }
+}, 
+    {
+  "id": "185",
+  "title": "Gebetsmuster aus Anbetung, Lauschen, Dankbarkeit, Anliegen und Ruhen",
+  "shortDescription": "Ein fünfschrittiges kontemplatives Gebetsschema (ALTAR) als innerer Altar: Anbetung, Lauschen, Dankbarkeit, Anliegen und Ruhen vor Gottes Angesicht.",
+  "author": null,
+  "text": "Gott, Du bist größer als mein Denken und näher als mein Atem.\nDu bist Ursprung, Licht und Leben.\n\nHerr, ich schenke Dir meine Aufmerksamkeit.\nMach mich still genug, um Deine Nähe wahrzunehmen.\n\nGott, ich erkenne, dass mein Leben nicht nur aus dem besteht, was fehlt.\nDa ist Gnade. Da ist Bewahrung.\n\nHerr, ich öffne vor Dir, was Hilfe braucht.\nKomm in meine Schwäche. Sprich in meine Unsicherheit.\n\nGott, ich darf vor Dir ruhen.\nIch darf empfangen, ohne etwas leisten zu müssen.\n\nHerr, ich gehe nicht von Dir weg, sondern mit Dir weiter.\nFühre mein Herz, meine Worte und meine Schritte.\n\nAmen.",
+  "tags": ["Anbetung", "Kontemplation", "Tägliches Gebet", "Ruhe"],
+  "category": "Gebetsmuster",
+  "holiday": null,
+  "theology": null,
+  "estimatedMinutes": null,
+  "audio": { "male": null, "female": null }
+}
   ]
 }
