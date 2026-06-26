@@ -2257,8 +2257,9 @@
         "Vertrauen"
       ],
       "category": [
-        "Tageszeiten", 
-        "Modern"],
+        "Tageszeiten",
+        "Modern"
+      ],
       "holiday": null,
       "theology": null,
       "estimatedMinutes": null,
@@ -2283,6 +2284,7 @@
       "category": [
         "Tageszeiten",
         "Dankbarkeit",
+        "Gottvertrauen & Hingabe",
         "Modern"
       ],
       "holiday": null,
@@ -2309,6 +2311,7 @@
       "category": [
         "Tageszeiten",
         "Dankbarkeit",
+        "Gottvertrauen & Hingabe",
         "Modern"
       ],
       "holiday": null,
@@ -2335,6 +2338,7 @@
       "category": [
         "Schöpfung & Frieden",
         "Dankbarkeit",
+        "Lob & Preis",
         "Modern"
       ],
       "holiday": null,
