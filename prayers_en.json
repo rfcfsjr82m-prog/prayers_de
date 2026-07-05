@@ -2604,7 +2604,10 @@
       "Thanks",
       "Petition"
     ],
-    "category": "Prayer Patterns",
+    "category": [
+      "Prayer Patterns",
+      "modern"
+    ]
     "holiday": null,
     "theology": null,
     "estimatedMinutes": null,
@@ -2626,7 +2629,10 @@
       "Intercession",
       "Inner Recollection"
     ],
-    "category": "Prayer Patterns",
+    "category": [
+      "Prayer Patterns",
+      "modern"
+    ]
     "holiday": null,
     "theology": null,
     "estimatedMinutes": null,
@@ -2648,7 +2654,10 @@
       "Gratitude",
       "Petition"
     ],
-    "category": "Prayer Patterns",
+    "category": [
+      "Prayer Patterns",
+      "modern"
+    ]
     "holiday": null,
     "theology": null,
     "estimatedMinutes": null,
@@ -2669,7 +2678,10 @@
       "Courage",
       "Gratitude"
     ],
-    "category": "Prayer Patterns",
+    "category": [
+      "Prayer Patterns",
+      "modern"
+    ]
     "holiday": null,
     "theology": null,
     "estimatedMinutes": null,
